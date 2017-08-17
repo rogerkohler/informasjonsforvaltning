@@ -1,0 +1,2 @@
+# informasjonsforvaltning
+Archimate repository for informasjonsforvaltning
