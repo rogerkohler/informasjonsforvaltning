@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="validerer"
+    id="8868ba51">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_cb59d649.xml#cb59d649"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8502dce9.xml#8502dce9"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="af8aa772"
+    documentation="eArkiv angår BR i sterk grad.&#xA;- BRsys har og skal ha et arkiv&#xA;- Altinn har arkivfunksjonalitet&#xA;- eArkiv er en viktig del av Informasjonsforvaltning&#xA;&#xA;Dette er viktig:&#xA;- BRsys. Altinn og en fremtidig informasjonsforvaltningsløsning må spille sammen med en eArkiv løsning.&#xA;- eArkiv er en forretningsmulighet&#xA;">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_687bf4b2.xml#687bf4b2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5a0553d9.xml#5a0553d9"/>
+</archimate:AssociationRelationship>

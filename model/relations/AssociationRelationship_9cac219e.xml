@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vedtatt i "
+    id="9cac219e">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_87968ec1.xml#87968ec1"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_d111163a.xml#d111163a"/>
+</archimate:AssociationRelationship>

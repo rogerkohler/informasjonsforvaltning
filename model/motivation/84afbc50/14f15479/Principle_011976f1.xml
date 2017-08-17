@@ -1,0 +1,4 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="When appropriate, create an API for third parties and internal users to interact with the service directly"
+    id="011976f1"/>

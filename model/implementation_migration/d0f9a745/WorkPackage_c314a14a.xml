@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.16 Etablere felles løsning som tilbyr oversikt over tilgjengelige begrep"
+    id="c314a14a">
+  <properties
+      key="prioritet"
+      value="2,3"/>
+  <properties
+      key="oppstart"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="var"
+      value="B3.T2"/>
+</archimate:WorkPackage>

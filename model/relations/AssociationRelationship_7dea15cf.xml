@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tema"
+    id="7dea15cf">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0e53c708.xml#0e53c708"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_ff4032ca.xml#ff4032ca"/>
+</archimate:AssociationRelationship>

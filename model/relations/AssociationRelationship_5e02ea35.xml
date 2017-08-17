@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utveksler"
+    id="5e02ea35">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8502dce9.xml#8502dce9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_549f0671.xml#549f0671"/>
+</archimate:AssociationRelationship>

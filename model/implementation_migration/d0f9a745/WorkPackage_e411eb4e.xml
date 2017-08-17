@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.6 Etablere oversikt over API-er (katalog)"
+    id="e411eb4e">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="prioritet"
+      value="2,3"/>
+  <properties
+      key="var"
+      value="B2b.T2 "/>
+</archimate:WorkPackage>

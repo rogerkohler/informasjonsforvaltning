@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.17 Etablere priorierte felles informasjonsmodeller (Person, enhet, adresse, identifikasjon)"
+    id="6b6b5b6f">
+  <properties
+      key="oppstart"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="1 (2,3)"/>
+  <properties
+      key="var"
+      value="B4.T2 "/>
+</archimate:WorkPackage>

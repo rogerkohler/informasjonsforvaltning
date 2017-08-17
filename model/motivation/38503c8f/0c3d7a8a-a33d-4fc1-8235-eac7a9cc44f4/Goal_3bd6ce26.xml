@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.3. Altinn skal samhandle med nasjonale felleskomponenter og fellesløsninger og inngå i en helhetlig felles arkitektur"
+    id="3bd6ce26"
+    documentation="Effektivisering og tjenesteutviklingen hemmes i dag av en manglende oversikt over hvem som har hvilken type data, &#xD;&#xA;hvordan disse dataene kan tilgjengelig gjøres og hva de betyr. &#xD;&#xA;Kataloger over offentlige virksomheters data, tjenester og begreper tilgjengelig gjøres og brukes av Altinn.&#xD;&#xA;Tjenesteiere i Altinn vil kunne bruke denne oversikten til å lage tjenester som lager &quot;once only&quot; rapportering.&#xD;&#xA;"/>

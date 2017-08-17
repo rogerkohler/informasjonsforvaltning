@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videreutvikle samhandlingsfunksjonalitet i Altinn"
+    id="87ce5c53"
+    documentation="Utvikle samhandling gjennom ulike mønstre. Brukergrupper kan  f.eks. knyttes til hverandre gjennom samtykke. Altinn kan bli det offentlige navet for samtykke, tilganger og fullmakter som sikrer økt samhandling mellom autoriserte parter. Altinn bør standardisere, videreutvikle og åpne opp sine APIer for å støtte opp om samhandling på tvers."/>

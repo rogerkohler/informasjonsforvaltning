@@ -1,0 +1,136 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Value Proposition Canvas"
+    id="_ogWvAAr7EeelBq7zcp5dmg"
+    hintTitle="Value Proposition Canvas"
+    hintContent="The Value Proposition Canvas is a canvas created by Alex Osterwalder, Yves Pigneur, Greg Bernarda and Alan Smith.&#xD;&#xA;&lt;p>&lt;/p>&#xD;&#xA;It is a companion resource for the book 'Value Proposition Design'.&#xD;&#xA;&lt;p>&lt;/p>&#xD;&#xA;More information: &lt;a href=&quot;https://strategyzer.com/value-proposition-design&quot;>strategyzer.com/value-proposition-design&lt;/a>">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvAQr7EeelBq7zcp5dmg"
+      font="1|Arial Black|15.75|0|WINDOWS|1|-21|0|0|0|900|0|0|0|0|3|2|1|34|Arial Black"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="THE VALUE PROPOSITION CANVAS"
+      locked="true"
+      textPosition="6">
+    <bounds
+        x="12"
+        y="12"
+        width="445"
+        height="39"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="_ogWvAgr7EeelBq7zcp5dmg"
+      borderColor="#000000"
+      imagePath="images/_zJWjwM5NEeSubumCeM44AQ.jpg"
+      locked="true">
+    <bounds
+        y="60"
+        width="1249"
+        height="637"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvAwr7EeelBq7zcp5dmg"
+      font="1|Comic Sans MS|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|66|Comic Sans MS"
+      fontColor="#ffffff"
+      fillColor="#c0c0c0"
+      content="author:"
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="4">
+    <bounds
+        y="708"
+        width="85"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvBAr7EeelBq7zcp5dmg"
+      font="1|Arimo|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arimo"
+      fillColor="#ffffff"
+      content="(add here)"
+      borderColor="#C0C0C0"
+      textPosition="3">
+    <bounds
+        x="96"
+        y="708"
+        width="181"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvBQr7EeelBq7zcp5dmg"
+      font="1|Comic Sans MS|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|66|Comic Sans MS"
+      fontColor="#ffffff"
+      fillColor="#c0c0c0"
+      content="purpose:"
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="4">
+    <bounds
+        x="288"
+        y="708"
+        width="103"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvBgr7EeelBq7zcp5dmg"
+      font="1|Arimo|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arimo"
+      fillColor="#ffffff"
+      content="(add here)"
+      borderColor="#C0C0C0"
+      textPosition="3">
+    <bounds
+        x="396"
+        y="708"
+        width="589"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvBwr7EeelBq7zcp5dmg"
+      font="1|Comic Sans MS|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|66|Comic Sans MS"
+      fontColor="#ffffff"
+      fillColor="#c0c0c0"
+      content="date:"
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="4">
+    <bounds
+        x="996"
+        y="708"
+        width="61"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvCAr7EeelBq7zcp5dmg"
+      font="1|Arimo|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arimo"
+      fillColor="#ffffff"
+      content="         /       /        "
+      borderColor="#C0C0C0"
+      textPosition="3">
+    <bounds
+        x="1068"
+        y="708"
+        width="181"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="_ogWvCQr7EeelBq7zcp5dmg"
+      fillColor="#ffffff"
+      content="Source: strategyzer.com/value-proposition-design"
+      locked="true"
+      textPosition="4">
+    <bounds
+        x="972"
+        y="13"
+        width="277"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>

@@ -1,0 +1,4 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data skal skapes én gang, forvaltes i én kilde for så å kunne gjenbrukes. Gjenbruk er hovedregel ved utvikling av nye digitale offentlige tjenester. Dette gjelder gjenbruk av tjenester, data og beskrivelser.  Alle grunndata, ikke bare grunndata fra felleskomponentene,  bør underlegges et felles rammeverk for informasjonsforvaltning.  "
+    id="645bd6ee"/>

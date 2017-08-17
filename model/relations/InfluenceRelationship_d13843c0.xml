@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d13843c0"
+    documentation="begrepsdefinisjoner er viktig for å bidra til treffsikker og effektiv kommunikasjon mellom ulike aktører, enten den foregår mellom mennesker, menneske og datasystem, eller mellom datasystemer. (Acando)">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_63bc3bc9.xml#63bc3bc9"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_726cfc4a.xml#726cfc4a"/>
+</archimate:InfluenceRelationship>

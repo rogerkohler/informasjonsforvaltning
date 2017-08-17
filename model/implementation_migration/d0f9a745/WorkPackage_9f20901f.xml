@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.13 Tilgjengeliggjøre begrepsbeskrivelser fra den enkelte virksomhet"
+    id="9f20901f">
+  <properties
+      key="oppstart"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="1, (2)"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="var"
+      value="B3.T9 "/>
+</archimate:WorkPackage>

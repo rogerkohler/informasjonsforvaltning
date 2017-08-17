@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.16 Etablere veileder for felles informasjonsmodeller"
+    id="da05ee41">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet"
+      value="2"/>
+  <properties
+      key="prioritet"
+      value="1 (2,3)"/>
+  <properties
+      key="var"
+      value="B4.T1"/>
+</archimate:WorkPackage>

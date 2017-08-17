@@ -1,0 +1,14 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B1.T5 Etablere veiledere og prinsipper for informasjonsforvaltning"
+    id="55e5ac53">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+</archimate:WorkPackage>

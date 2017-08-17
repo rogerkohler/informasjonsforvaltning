@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrikkelen"
+    id="a3b981dc"
+    documentation="Den autoritative kilde for eiendomsinformasjon og fysiske adresser finnes i Matrikkelen som Kartverket forvalter. Matrikkelen inneholder også kommunenummer som en del av identifikatoren. De fysiske adressene distribueres som kopi fra Matrikkelen til Folkeregisteret og Enhetsregisteret, som så utfyller Matrikkelen med ytterligere informasjon, som igjen distribueres til andre virksomheter. Dermed er ikke registerinformasjonen lik den opprinnelige kilden, noe som gjør at de forskjellige systemene ikke er synkrone til enhver tid. "/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oppdateringshyppighet"
+    id="7a2c3f3a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0e53c708.xml#0e53c708"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_02b7090d.xml#02b7090d"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="del av"
+    id="d9d5084b">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_10cf71c6.xml#10cf71c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_77e93bf3.xml#77e93bf3"/>
+</archimate:CompositionRelationship>

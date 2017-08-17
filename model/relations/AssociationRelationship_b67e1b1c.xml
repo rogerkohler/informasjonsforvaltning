@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="katalogpost"
+    id="b67e1b1c">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bbbca777.xml#bbbca777"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_209abe72.xml#209abe72"/>
+</archimate:AssociationRelationship>

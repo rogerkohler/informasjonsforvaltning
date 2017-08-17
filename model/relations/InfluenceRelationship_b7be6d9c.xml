@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b7be6d9c"
+    documentation="Fra Difis rapport om datahotellet, http://data.norge.no/aktuelt/2015/05/ny-rapport-om-difis-datahotell&#xA;&#xA;Fritt tilgjengelige data skaper et nytt marked i form av applikasjoner og nye tjenester som inneholder offentlig informasjon.&#xA;&#xA;Funn:&#xA;* Nesten halvparten angir at Datahotellet er «Svært viktig eller viktig» for virksomheten&#xA;* Halvparten svarer at Datahotellet genererer inntekter for virksomheten, direkte eller indirekte.&#xA;* Nesten 4 av 10 angir at Datahotellet benyttes til forbedring av virksomhetens interne liv: Heve effektiviteten og/eller kvaliteten i forretningsprosesser&#xA;* Halvparten mener datasettene har bidratt «i større eller mindre grad» til innovasjon og verdiskaping.&#xA;* Så mye som en tredjedel av respondentene vurderer bidraget innen effektivisering til å være «svært stort» eller «stort».&#xA;* 7 av 10 sier at «datasettene har bidratt i større eller mindre grad til kvaliteten i virksomhetens produkter og tjenester».&#xA;&#xA;* 60% av brukerne benyttes sanntidsoppslag mot datahotellet&#xA;* Halvparten av brukerne kobler datasett med hverandre eller annen egen informasjon.&#xA;&#xA;Fra Dekkers, M., Polman, F., te Velde, R., &amp; de Vries, M. (2006). MEPSIR - Measuring European Public Sector Information Resources .&#xA;&#xA;http://www.epsiplatform.eu/sites/default/files/ezpublish_media/MEPSIR%20Final%20Report.pdf&#xA;&#xA;&quot;Based on the estimates of the re-users (which tended to be more stable than those of the public content holders) the overall market for public sector information in the European Union plus Norway is €26.1 billion with an upper boundary of €47.8 billion.&quot;">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_64a49e80.xml#64a49e80"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_b39475d8.xml#b39475d8"/>
+</archimate:InfluenceRelationship>

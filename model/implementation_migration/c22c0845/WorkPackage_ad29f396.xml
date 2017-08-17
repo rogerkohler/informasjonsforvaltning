@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referanseregistret"
+    id="ad29f396"
+    documentation="Kartverket har under utvikling en løsning som muliggjør at ny kommunestruktur, adresser, gårds- og bruksnumre etc. kan gjøres tilgjengelig kort tid etter at formell beslutning om endring er tatt (heretter kalt referanseregistret). Denne løsningen er ved ulike anledninger forankret med de mest sentrale deltagerne i Skate.&#xA;&#xA;Skate skal vurdere Kartverkets referansemodell som en felles arkitekturtilnærming, inkludert distribusjonsløsning.&#xA;&#xA;Utrede hvilke prinsipper og kriterier som skal legges til grunn for navn og kommunenummer, mellom annet hvorvidt kommunesammenslåinger kan baseres på gjenbruk av største kommunes kommunenummer."/>

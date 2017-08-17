@@ -1,0 +1,11 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapport forprosjekt kommunereform"
+    id="0b2de528">
+  <properties
+      key="rdfs:seeAlso"
+      value="http://www.difi.no/sites/difino/files/sak_09-14_rapport_fra_forprosjekt_kommunereform_-_vedlegg_1_-_forprosjektrapport.pdf"/>
+  <properties
+      key="status"
+      value="lest"/>
+</archimate:Deliverable>

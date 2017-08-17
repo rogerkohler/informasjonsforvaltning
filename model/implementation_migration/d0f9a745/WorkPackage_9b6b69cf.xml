@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.4 Etablere arena for kompetansedeling og erfaringsutveksling"
+    id="9b6b69cf">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="var"
+      value="B1.T3"/>
+</archimate:WorkPackage>

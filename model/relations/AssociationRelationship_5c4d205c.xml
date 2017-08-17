@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bidrar i"
+    id="5c4d205c">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_2ef4f1de.xml#2ef4f1de"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3cd4b02b.xml#3cd4b02b"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funksjonsområde Informasjonsmodellforvaltning"
+    id="6799cea1-c081-4477-97c7-d7ecc22bf305">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fc2b6070-7f17-4198-ad84-fb19d6fcf7ab"
+      targetConnections="af650357-21e8-4e20-8a93-133bad637fe8">
+    <bounds
+        x="132"
+        y="108"
+        width="649"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_af22a984.xml#af22a984"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="241ce156-74be-4b2b-8b26-cc0fd0cd63e8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="af650357-21e8-4e20-8a93-133bad637fe8"
+        source="241ce156-74be-4b2b-8b26-cc0fd0cd63e8"
+        target="fc2b6070-7f17-4198-ad84-fb19d6fcf7ab">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_6fe68a29.xml#6fe68a29"/>
+    </sourceConnections>
+    <bounds
+        x="132"
+        y="12"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_b93a327e.xml#b93a327e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

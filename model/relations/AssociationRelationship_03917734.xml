@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="datasett"
+    id="03917734">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bbbca777.xml#bbbca777"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0e53c708.xml#0e53c708"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan bruke"
+    id="5535b56d">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3cd4b02b.xml#3cd4b02b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8cf3bc9b.xml#8cf3bc9b"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="uavklart"
+    id="4c787daa-31ce-48a9-9576-df877fef4e53">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_4efcaebf-26f2-4f85-84b7-c49fc397c86c.xml#4efcaebf-26f2-4f85-84b7-c49fc397c86c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c5ea3f38-5f4b-4631-b422-3900dd0e7bfb.xml#c5ea3f38-5f4b-4631-b422-3900dd0e7bfb"/>
+</archimate:FlowRelationship>

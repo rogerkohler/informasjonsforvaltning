@@ -1,0 +1,18 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.3 Etablere en modenhetsmodell for offentlig informasjonsforvaltning"
+    id="37dd9a6e"
+    documentation="Modenhetsmodellen vurderes å bygge på EUs Interoperability Maturity Model (IMM) som er en del av EIF.">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="var"
+      value="B1.T2 "/>
+</archimate:WorkPackage>

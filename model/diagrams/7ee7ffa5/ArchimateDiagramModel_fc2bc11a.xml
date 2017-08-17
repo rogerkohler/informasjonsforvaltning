@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C1.1 Information structure viewpoint"
+    id="fc2bc11a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="23bfc023">
+    <bounds
+        x="200"
+        y="168"
+        width="177"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_4084452c.xml#4084452c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b088dbc8">
+    <bounds
+        x="504"
+        y="168"
+        width="168"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_7168eef1.xml#7168eef1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

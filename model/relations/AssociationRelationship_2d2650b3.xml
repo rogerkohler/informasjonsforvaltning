@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utgiver (eier)"
+    id="2d2650b3">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0e53c708.xml#0e53c708"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1f2baf92.xml#1f2baf92"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="cb258ea5"
+    documentation="09/14  Rapport fra Forprosjekt Kommunereform&#xA;&#xA;Anne Cathrine Frøstrup&#xA;&#xA;Beslutningssak&#xA;&#xA;Saken har vært oppe i Skate tidligere. Saken gjelder konsekvenser av kommunereformen for statlige virksomheter og de nasjonale fellesregistrene. Kartverket har erfaringer fra de siste års kommunesammenslåinger, og selv sammenslåing av kun 2 kommuner er komplekst. Kommuneproposisjonen beskriver ikke problemstillinger knyttet til IKT, verken i kommunene eller i staten.&#xA;&#xA;Det er et stort behov for å se dette helhetlig. Det er gjennomført et forprosjekt, som har lagt fram en rapport hvor man har man har beskrevet konsekvenser på IKT-området, og foreslått tiltak for å håndtere disse konse­kven­sene for nasjonale fellesregistre og offentlige virksomheters bruk av registerdataene.&#xA;&#xA;Kartverket foreslår et nasjonalt program for å koordinere og samordne aktiviteter som imøtegår IKT-utfordringene som følger av kommunereformen, jf Skates beslutning (se under).&#xA;&#xA;Beslutning&#xA;&#xA;«Skate foreslår at det etableres et operativt program med hovedformål å koordinere og samordne aktiviteter for å ivareta IKT-utfordringene som følger av kommunereformen. Mandatet bør omfatte å&#xA;&#xA;1.   koordinere tiltak knyttet til bruk og tilgang til de nasjonale fellesregistrene&#xA;&#xA;2.   koordinere med KS’ tiltak og tiltak for de statlige virksomhetene, slik at disse fremstår enhetlige&#xA;&#xA;Kartverket følger opp saken overfor KMD. Skate stiller seg bak forslaget.»">
+  <source
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_ad48e09e.xml#ad48e09e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_1798f952.xml#1798f952"/>
+</archimate:AssociationRelationship>

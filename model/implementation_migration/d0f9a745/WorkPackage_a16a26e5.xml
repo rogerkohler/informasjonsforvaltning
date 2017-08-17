@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.5 Etablere ansvar for styring, koordinering og forvaltning av fellesoffentlig rammeverk"
+    id="a16a26e5">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="var"
+      value="B1.T4"/>
+</archimate:WorkPackage>

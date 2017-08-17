@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="10678360"
+    documentation="Effektivisering i virksomheten gjennom redusert behov/konsolidering ved sanering for andre tjenestetyper (inklusive batch/ajourhold og webtjenester) (lang sikt).">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_be020b00.xml#be020b00"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_6d791366.xml#6d791366"/>
+</archimate:InfluenceRelationship>

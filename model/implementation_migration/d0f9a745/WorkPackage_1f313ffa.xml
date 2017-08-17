@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.3 Etablere en felles datakatalog for offentlig data"
+    id="1f313ffa">
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="var"
+      value="B2a.T3 "/>
+</archimate:WorkPackage>

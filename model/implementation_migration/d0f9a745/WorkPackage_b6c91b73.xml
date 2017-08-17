@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2 Etablere standard for beskrivelse av digtiale tjenester"
+    id="b6c91b73">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="2,3"/>
+  <properties
+      key="var"
+      value="B2b.T1"/>
+</archimate:WorkPackage>

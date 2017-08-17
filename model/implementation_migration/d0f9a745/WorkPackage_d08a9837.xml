@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.18 Etablere løsning for å tilgjengeliggjøre og forvalte felles informasjonsmodeller"
+    id="d08a9837">
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="oppstart"
+      value="2"/>
+  <properties
+      key="prioritet"
+      value="2,3"/>
+  <properties
+      key="var"
+      value="B4.T3"/>
+</archimate:WorkPackage>

@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.8 Etablere veileder for datasett"
+    id="74908821">
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="var"
+      value="B2a.T7"/>
+</archimate:WorkPackage>

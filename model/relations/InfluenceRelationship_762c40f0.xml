@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="762c40f0"
+    documentation="Åpne data vil gi økt datakvalitet (for bruker) og redusert vedlikehold/raskere saksbehandling (for BR) gjennom utstrakt bruk av referanse til andre master data (f.eks. matrikkel, folkeregister og kodeverk fra f.eks. SSB) og selvdokumenterede beskrivelser (f.eks. begrepsdefinsjoner). Dette forutsetter at Enhetsregisteret også kan referere til disse (ref. informasjonsforvaltning i Veikart for felleskomponenter).">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_be020b00.xml#be020b00"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_63bc3bc9.xml#63bc3bc9"/>
+</archimate:InfluenceRelationship>

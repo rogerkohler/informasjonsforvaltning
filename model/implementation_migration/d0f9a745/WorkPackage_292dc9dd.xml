@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.1 Etablere en oversikt over data den enkelte virksomhet forvalter"
+    id="292dc9dd">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="var"
+      value="B2a.T1"/>
+</archimate:WorkPackage>

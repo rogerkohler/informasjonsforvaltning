@@ -1,0 +1,14 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B3.T6 Utrede om det er behov for å etablere verktøy for å forvalte felles begreper"
+    id="32f6adeb">
+  <properties
+      key="oppstart"
+      value="0-1"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="2,3"/>
+</archimate:WorkPackage>

@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X-road"
+    id="20a4fb54"
+    documentation="X-road er infrastrukturen som brukes for å oppnå sikker informasjonsutveksling mellom virksomheter i Estland, gjennom installasjon av en “Security Server” hos alle virksomheter. Denne gir funksjonalitet for konfidensialitet (kryptering) og ikke-benekt (logging) for tradisjonelle SOAP-baserte web-services over vanlig internett. En viktig del av X-road er katalog-tjenestene i RIHA som sørger for at alle data fra offentlige virksomheter er tilgjengelige, beskrevet og ansvarsfordelt. Viktige rammer er governance-modellen og understøttende lovverk. https://www.ria.ee/en/"/>

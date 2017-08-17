@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1ad433e7"
+    documentation="Økt transparens (for samfunnet) gjennom at alltid-oppdatert kunnskap om enhetene er i utstrakt bruk.">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_64a49e80.xml#64a49e80"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_1e3f8a8d.xml#1e3f8a8d"/>
+</archimate:InfluenceRelationship>

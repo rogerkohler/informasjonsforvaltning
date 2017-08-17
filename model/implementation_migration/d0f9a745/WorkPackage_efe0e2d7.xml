@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.15 Vurdere om det er behov for et felles verktøy for begrepsforvaltning"
+    id="efe0e2d7">
+  <properties
+      key="oppstart"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="prioritet"
+      value="2"/>
+  <properties
+      key="var"
+      value="B3.T5 "/>
+</archimate:WorkPackage>

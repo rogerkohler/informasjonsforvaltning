@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videreutvikling av (forretnings-)prosesseringstjenester (f.eks. validering, regelmotor, splitting) på vegne av tjenesteeieren"
+    id="c0cbef17"
+    documentation="Kapitalisere på felles informasjonsmodeller, anvende grunndata, autoritative data (master data), kalkulasjoner, splitt funksjonalitet &#xD;&#xA;samt  mer eller mindre annen eksisterende Altinn funksjonalitet for å &quot;tappe&quot; inn i den (i nasjonalsammenheng) store dataflyten vi har ved å ha/være en generisk prosesserings mekanisme."/>

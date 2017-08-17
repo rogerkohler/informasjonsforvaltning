@@ -1,0 +1,17 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.4  Utrede styringsvedtak for å fremskaffe en oversikt over data det offentlige forvalter"
+    id="ad20027f">
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="varighet (år)"
+      value="1"/>
+  <properties
+      key="var"
+      value="B2a.T5"/>
+</archimate:WorkPackage>

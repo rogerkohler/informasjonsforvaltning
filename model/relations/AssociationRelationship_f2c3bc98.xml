@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="angir gyldige verdisett"
+    id="f2c3bc98">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7c72b1a8.xml#7c72b1a8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_77e93bf3.xml#77e93bf3"/>
+</archimate:AssociationRelationship>

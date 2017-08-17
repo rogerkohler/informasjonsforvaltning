@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="99c656f3"
+    documentation="&quot;I økende grad vil innbyggere, også de eldre, forvente tilgang til gode, elektroniske tjenester hele døgnet.&quot;&#xA;&#xA;&quot;Digitale tjenester er i tillegg tilgjengelige døgnet rundt&quot;&#xA;&#xA;">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_95be59a1.xml#95be59a1"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_b2685ba1.xml#b2685ba1"/>
+</archimate:InfluenceRelationship>

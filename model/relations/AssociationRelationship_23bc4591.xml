@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="forklares med"
+    id="23bc4591">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_4bf31655.xml#4bf31655"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_fb75530b.xml#fb75530b"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,18 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.1 Definere innhold og omfang for et fellesoffentlig rammeverk"
+    id="9692ef8b"
+    documentation="Innholdet i et nasjonalt informasjonsforvaltningsrammeverk defineres og detaljeres ut fra det europeiske interoperabilitetsrammeverke EIF. Avgrensninger til hva rammeverket ikke inneholder gjøres.">
+  <properties
+      key="oppstart"
+      value="0"/>
+  <properties
+      key="prioritet"
+      value="1"/>
+  <properties
+      key="varighet (år)"
+      value="2"/>
+  <properties
+      key="var"
+      value="B1.T1"/>
+</archimate:WorkPackage>
