@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interessentanalyse Internasjonalt"
+    name="5.4.2 Interessentanalyse Informasjonsforvaltning Internasjonalt 2016"
     id="ff423455">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -287,7 +287,7 @@
         id="c7a21be3"
         targetConnections="a53dc052 8055b79f">
       <bounds
-          x="471"
+          x="492"
           y="218"
           width="120"
           height="72"/>
@@ -323,7 +323,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="e77f4c0a">
+        id="e77f4c0a"
+        targetConnections="e55c90ba-9c05-4ba3-85d9-e3d591ec687c">
       <bounds
           x="66"
           y="226"
@@ -358,8 +359,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="af335e2a">
       <bounds
-          x="370"
-          y="205"
+          x="364"
+          y="207"
           width="120"
           height="55"/>
       <archimateElement
@@ -550,6 +551,15 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_e22a1e23.xml#e22a1e23"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="e55c90ba-9c05-4ba3-85d9-e3d591ec687c"
+          source="ca2b0e92"
+          target="e77f4c0a">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_e5c255fe-c4f4-44f1-82f6-01ac8248a7e4.xml#e5c255fe-c4f4-44f1-82f6-01ac8248a7e4"/>
       </sourceConnections>
       <bounds
           x="16"

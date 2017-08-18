@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Katalog over tekniske tjenester"
+    name="API-katalog"
     id="f5af3899"
     documentation="An Application Service is an externally visible unit of functionality, provided by one or more application components. It is exposed through well-defined interfaces and is meaningful to the environment. A Application Service exposes the functionality of components to their environment. This functionality is accessed through one or more application interfaces."/>

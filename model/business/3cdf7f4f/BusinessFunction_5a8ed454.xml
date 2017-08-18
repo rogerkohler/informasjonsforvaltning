@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samhandling"
-    id="5a8ed454"/>
+    id="5a8ed454"
+    documentation="Forretningsfunksjoner knyttet til samhandling med andre aktører som ikke er brukere i en gitt sak; f.eks. Kommunikasjon mellm offentlige tjenesteeiere, og internt hos tjensteeierene.&#xA;&#xA;Funksjonsområdet dekker den delen av samhandling som spesifikt omhandler informasjonsutveksling mellom fagsystemer på tvers av virksomheter.&#xA;"/>

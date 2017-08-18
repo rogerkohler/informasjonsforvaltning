@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interessentanalyse Ny"
+    name="5.4.4 Interessentanalyse Offentlig sektor (Ny)"
     id="587069e9-00e0-46bb-9556-237f63f896e9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -182,8 +182,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bb486a02-a888-4b4b-9021-a5ca32d40f1c">
     <bounds
-        x="396"
-        y="384"
+        x="336"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement
@@ -194,8 +194,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f5e02e5f-a96a-46b3-9f7f-8d245cf60e9b">
     <bounds
-        x="264"
-        y="476"
+        x="480"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement

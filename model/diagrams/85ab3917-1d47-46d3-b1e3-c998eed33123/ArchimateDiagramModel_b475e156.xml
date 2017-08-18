@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6.2.7 Effektmål informasjonsutveksling"
+    id="b475e156">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7c7ba71f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="dd112ce0"
+        source="7c7ba71f"
+        target="c856ea98">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_abc12530.xml#abc12530"/>
+    </sourceConnections>
+    <bounds
+        x="96"
+        y="240"
+        width="120"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_4fbc8ab3.xml#4fbc8ab3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c856ea98"
+      targetConnections="dd112ce0">
+    <bounds
+        x="304"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_64a49e80.xml#64a49e80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
