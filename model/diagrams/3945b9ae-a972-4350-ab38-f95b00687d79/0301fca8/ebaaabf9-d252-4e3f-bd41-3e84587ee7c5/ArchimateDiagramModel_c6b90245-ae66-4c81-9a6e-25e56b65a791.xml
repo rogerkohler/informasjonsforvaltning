@@ -1,0 +1,116 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gartner 2017-08-21"
+    id="c6b90245-ae66-4c81-9a6e-25e56b65a791">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c2b44351-41a2-433c-b1c1-80bba616c454"
+      targetConnections="ca07ddd9-3cb3-4f98-ae01-421c35a38ba3">
+    <bounds
+        x="264"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_4f296996-fd94-4a26-b7ea-dc2f97284d96.xml#4f296996-fd94-4a26-b7ea-dc2f97284d96"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b33980f6-0728-46ef-a2af-c2d19b60d35c"
+      textAlignment="1"
+      content="Using APIs for 1) internal - expose interfaces for their application 2) communication with different agencies 3) publish data - both ways&#xA;">
+    <bounds
+        x="348"
+        width="178"
+        height="102"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bafa1495-c60f-4ed3-997f-5e71fe26e827">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ca07ddd9-3cb3-4f98-ae01-421c35a38ba3"
+        source="bafa1495-c60f-4ed3-997f-5e71fe26e827"
+        target="c2b44351-41a2-433c-b1c1-80bba616c454">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_f74defe8-f1da-4753-9e95-dd393dc8f137.xml#f74defe8-f1da-4753-9e95-dd393dc8f137"/>
+    </sourceConnections>
+    <bounds
+        x="408"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_106142c3-23b7-4fce-996c-3321b64afa3c.xml#106142c3-23b7-4fce-996c-3321b64afa3c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5ae85336-7baa-4b65-9608-2e864ba5510e"
+      textAlignment="1"
+      content="Sentre of service, where APIs can be searched for tested, and embedded in services. Implement a fairly simple (public non-public) to farily sensitive (reporting)">
+    <bounds
+        x="564"
+        y="300"
+        width="185"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="255f843c-818c-45b3-a420-01009193b0d3"
+      textAlignment="1"
+      content="API management: A gateway, policies, results of the call, development support/listing in a catalog. ">
+    <bounds
+        x="564"
+        y="444"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b4f72db3-6042-4b20-b7df-5068b6d46a1a"
+      textAlignment="1"
+      content="Best practices depends on the application for the APIs.">
+    <bounds
+        x="291"
+        y="454"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bfcb4382-48a6-4ef9-9173-723a6c2ee0bb"
+      textAlignment="1"
+      content="Standards - no API standards - intitaives financial services PS2 - interfaces into payment systems. Very high level. Never down to the level of use&#xA;&#xA;Government - data public, never on how. Calling an API on the internet is easy....&#xA;&#xA;They should be governed as your services is governed. Platforms of API-management will have a series of policies that will set special rules - e.g. responstime. Each API goes to a life cycle cradle to grave. &#xA;&#xA;API-economy. Notion of bi-modal for application. Changes for APIs. API-governance manager (role) - written extensivly about this. ">
+    <bounds
+        x="48"
+        y="120"
+        width="185"
+        height="302"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2af05f97-07b3-4ef5-8c74-a51526911fd4"
+      textAlignment="1"
+      content="General purpose - governments decide how to. No governement. Neville!">
+    <bounds
+        x="46"
+        y="454"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0a203965-33cc-4c69-85f4-bfd32ace2b78"
+      textAlignment="1"
+      content="&quot;Role of a api product manageer&quot;&#xA;&quot;ApI-manager&quot;&#xA;Lot of information in the reports - follow up with Neville.">
+    <bounds
+        x="564"
+        y="132"
+        width="185"
+        height="104"/>
+  </children>
+</archimate:ArchimateDiagramModel>
