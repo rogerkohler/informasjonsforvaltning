@@ -1,0 +1,105 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forretningsarkitektur i SKD"
+    id="9cf8a15e-c119-49c0-9c85-92ebd990bbb3">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="63c4f937-0f1d-43aa-96e5-07180df507fd"
+      textAlignment="1"
+      content="Rammeverk for forretningsarkitektur&#xA;">
+    <bounds
+        x="495"
+        y="12"
+        width="185"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cf35bfe2-6d86-4f59-8149-96cc5e19e53a"
+      textAlignment="1"
+      content="linjefunksjon">
+    <bounds
+        x="132"
+        y="12"
+        width="185"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="45321493-ecfd-4654-b184-12f53e894f5c"
+      textAlignment="1"
+      content="Forretnignsarkitektur skal hjelpe oss å gi en tydligere struktur og avhengighetene. Hvilke huller har vi? For å levere på sammfunnsoppdraget. Digitaliseringen endrer forutsetningene for vårt oppdrag. IT-ivesteringene vil ha føringer på mange år fremover. Tradisjonelt er det vanskelig å få forretnigssiden involvert, fordi it-siden ser det først. .. og forretnignssiden ser det først når det er kollisjon. ">
+    <bounds
+        x="60"
+        y="72"
+        width="673"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fd3399db-ec41-4d6f-9e04-37c32b50eb88"
+      textAlignment="1"
+      content="Hensikt: Forberede hvordan vi løser samfunnsoppdraget ved å gi oversikt over helheten i oppgaveløsningen, f.eks. hvilke verdikjeder vi forvalter, hvilke evner/funksjonsområder etaten trenger, sammenhenger og avhengigheter mellom utviklingsaktiviteter, status på dagens oppgaveløsning og smertepunkter. sikre at beslutningen om utviklingen tas ut fra en foretningsmessig helhet. Sikre operasjonaliseirng av mål og strategier i utviklingsarbeidet.">
+    <bounds
+        x="60"
+        y="168"
+        width="673"
+        height="104"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="91ac1073-88b2-4e89-b3cc-6e8867668d1d"
+      textAlignment="1"
+      content="Helhet. Rammeverk - ta læring fra andre, få et verktøy til å strukturere tanker, sikre konsistens og hehet. TOGAF har ikke gitt oss den støtten vi trenger. Simon/Schmidt (red.) Business Architecture Management, Cham (Springer 2015)">
+    <bounds
+        x="60"
+        y="276"
+        width="673"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="65b59796-e05d-4d91-9cbf-c2061f3e6de2"
+      textAlignment="1"
+      content="Forretningsmotivasjon (drivere () , samfunnsutvikling; formål og hensikt med virksomheten (samfunnsoppdrag, verdier, fremtidsbilde, mål); rammer, regelverk; strategi)&#xA;&#xA;&#xA;Forretningsmodell: Måloppnåelse; Personer og virksomheter; Sammfunnsoppdrag; Prinsipper for videreutvikling; Oppdragsgivere; Finaisering og kostnader; Verdikjeder (verdinettverk) med utgangspuntk i forretningsmplbildet.&#xA;- hvordan skal vi gjøre det.&#xA;&#xA;Operasjonalisering (utvikling og drift): Insentiver; Evner til å levere (forretningskapabiliteter); proseesser (); informasjon; regelverk; organisering; mennesker og kompetanse. - hva skal vi være gode på, hvordan gjør vi det konkret.&#xA;&#xA;&quot;Rett fra starten av!&quot; - &quot;Compliance by design&quot;">
+    <bounds
+        x="60"
+        y="348"
+        width="673"
+        height="205"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="34354d51-6698-4c52-b4d8-bc664f817662"
+      textAlignment="1"
+      content="Verdikjeder - Porter. ---> Verdinettverk">
+    <bounds
+        x="60"
+        y="564"
+        width="673"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e21855b7-f978-4511-9044-f7e502ad374a"
+      textAlignment="1"
+      content="Skatteforvavalnigngen 2025: Identifisering, Dokumentering fastsetning og rapporteirng, Betaling&#xA;(Politiet, NAV, Toll, Skatt, innbygger, næring)">
+    <bounds
+        x="60"
+        y="600"
+        width="673"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="883221c6-00b5-4753-8259-764ad2fceb1f"
+      textAlignment="1"
+      content="Forretningskapabiliteter: Informasjon, Organisering, Mennesker og kompetanse, Kultur, Prosesser, Regelverk, Teknologi&#xA;&#xA;Hva skal vi egentlig oppnå? Hva trengs for å skape denne evnen.">
+    <bounds
+        x="60"
+        y="648"
+        width="673"
+        height="68"/>
+  </children>
+</archimate:ArchimateDiagramModel>
