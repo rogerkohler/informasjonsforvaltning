@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fremtidsbildet"
+    id="cf5cd525-e393-4616-97e9-b90559bf8f78">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_815734b3-fa65-410a-a335-f14d8aaccd04.xml#815734b3-fa65-410a-a335-f14d8aaccd04"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_3ccfa3d4-eed4-4d6f-a8ad-01584739da3f.xml#3ccfa3d4-eed4-4d6f-a8ad-01584739da3f"/>
+</archimate:AssociationRelationship>

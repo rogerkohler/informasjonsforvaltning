@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behov 2017"
+    name="Informasjonsforvaltning mål - Behov 2017"
     id="1f25f705-4dbe-44ff-afae-7c828694b0f7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -221,7 +221,7 @@
           x="264"
           y="24"
           width="241"
-          height="49"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_d300ae6a-e578-47a9-9abb-26dfa8018f33.xml#d300ae6a-e578-47a9-9abb-26dfa8018f33"/>
@@ -245,7 +245,7 @@
         targetConnections="e1469a03-5a72-48a7-8fc6-08d7abc9d239">
       <bounds
           x="264"
-          y="138"
+          y="144"
           width="241"
           height="40"/>
       <archimateElement
@@ -258,7 +258,7 @@
         targetConnections="fa802816-7c8f-4ccb-a35f-84f160199102">
       <bounds
           x="264"
-          y="84"
+          y="87"
           width="241"
           height="49"/>
       <archimateElement
