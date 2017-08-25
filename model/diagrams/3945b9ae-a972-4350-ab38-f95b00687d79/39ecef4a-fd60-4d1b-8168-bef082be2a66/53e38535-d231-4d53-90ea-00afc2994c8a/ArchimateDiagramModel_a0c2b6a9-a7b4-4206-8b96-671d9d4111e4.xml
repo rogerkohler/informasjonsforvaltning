@@ -4,143 +4,219 @@
     name="BR Visjon"
     id="a0c2b6a9-a7b4-4206-8b96-671d9d4111e4">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
-      targetConnections="45fc85dc-3559-43b5-a7a9-a47734e1b634">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="748a26ae-90d9-4ed4-9009-5b32265a0cc0"
-        source="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
-        target="315ba308-46d4-45da-b84e-5374044cc50b">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_cf5cd525-e393-4616-97e9-b90559bf8f78.xml#cf5cd525-e393-4616-97e9-b90559bf8f78"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="8b89db2f-5aa3-4dd4-b951-198e01861b3d"
-        source="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
-        target="98e17c87-a5ba-41fc-b821-67868f2ba8f5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_0f69a477-269f-4cb4-9bd7-a948fba4e3d3.xml#0f69a477-269f-4cb4-9bd7-a948fba4e3d3"/>
-    </sourceConnections>
+      xsi:type="archimate:DiagramModelGroup"
+      id="dd54f0a6-856c-4d42-9804-4aa2c7527060"
+      name="Brønnøysundregistrene"
+      textAlignment="1">
     <bounds
-        x="444"
-        y="255"
-        width="245"
-        height="118"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_815734b3-fa65-410a-a335-f14d8aaccd04.xml#815734b3-fa65-410a-a335-f14d8aaccd04"/>
+        x="96"
+        y="12"
+        width="601"
+        height="301"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="5d094fbb-3daf-4ea4-b675-8776909bd83a"
+        targetConnections="ba535e18-9834-46a7-88f2-0874f8773584"
+        textAlignment="1"
+        content="BR Samfunnsoppdrag">
+      <bounds
+          x="24"
+          y="36"
+          width="137"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="315ba308-46d4-45da-b84e-5374044cc50b"
+        targetConnections="748a26ae-90d9-4ed4-9009-5b32265a0cc0">
+      <sourceConnections
+          id="ba535e18-9834-46a7-88f2-0874f8773584"
+          source="315ba308-46d4-45da-b84e-5374044cc50b"
+          target="5d094fbb-3daf-4ea4-b675-8776909bd83a"/>
+      <bounds
+          x="12"
+          y="96"
+          width="205"
+          height="118"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_3ccfa3d4-eed4-4d6f-a8ad-01584739da3f.xml#3ccfa3d4-eed4-4d6f-a8ad-01584739da3f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
+        targetConnections="45fc85dc-3559-43b5-a7a9-a47734e1b634">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="748a26ae-90d9-4ed4-9009-5b32265a0cc0"
+          source="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
+          target="315ba308-46d4-45da-b84e-5374044cc50b">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_cf5cd525-e393-4616-97e9-b90559bf8f78.xml#cf5cd525-e393-4616-97e9-b90559bf8f78"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="8b89db2f-5aa3-4dd4-b951-198e01861b3d"
+          source="9d437fe1-c79c-4755-8c26-7e7c65698f5e"
+          target="98e17c87-a5ba-41fc-b821-67868f2ba8f5">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_0f69a477-269f-4cb4-9bd7-a948fba4e3d3.xml#0f69a477-269f-4cb4-9bd7-a948fba4e3d3"/>
+      </sourceConnections>
+      <bounds
+          x="300"
+          y="96"
+          width="177"
+          height="118"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_815734b3-fa65-410a-a335-f14d8aaccd04.xml#815734b3-fa65-410a-a335-f14d8aaccd04"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="98e17c87-a5ba-41fc-b821-67868f2ba8f5"
+        targetConnections="8b89db2f-5aa3-4dd4-b951-198e01861b3d ebdd8389-ed0f-410c-965c-067a8d0a43a6">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="fb7874b2-e678-4f0f-9dda-4121c1f1abd9"
+          source="98e17c87-a5ba-41fc-b821-67868f2ba8f5"
+          target="f7970724-d6de-405b-8529-0922eae3e496">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_c65ce361-5554-4d91-bc71-b86b625f9b5d.xml#c65ce361-5554-4d91-bc71-b86b625f9b5d"/>
+      </sourceConnections>
+      <bounds
+          x="302"
+          y="225"
+          width="173"
+          height="64"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_9a383a16-9c21-489a-8326-4fc9949451a9.xml#9a383a16-9c21-489a-8326-4fc9949451a9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="e2af3fc6-8f28-40a8-ae5d-a1b67bb188e7"
+        textAlignment="1"
+        content="Altinn Visjon">
+      <sourceConnections
+          id="ebdd8389-ed0f-410c-965c-067a8d0a43a6"
+          source="e2af3fc6-8f28-40a8-ae5d-a1b67bb188e7"
+          target="98e17c87-a5ba-41fc-b821-67868f2ba8f5"/>
+      <bounds
+          x="490"
+          y="228"
+          width="101"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="cf785ed4-b277-42d9-85ab-2e93efff325d"
+        textAlignment="1"
+        content="BR Visjon">
+      <sourceConnections
+          id="45fc85dc-3559-43b5-a7a9-a47734e1b634"
+          source="cf785ed4-b277-42d9-85ab-2e93efff325d"
+          target="9d437fe1-c79c-4755-8c26-7e7c65698f5e"/>
+      <bounds
+          x="492"
+          y="120"
+          width="97"
+          height="49"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="cf785ed4-b277-42d9-85ab-2e93efff325d"
+      id="0eccfa65-a4ca-487b-b98b-d4c4f6693485"
       textAlignment="1"
-      content="BR Visjon">
+      content="SKATE veikart &#xD;&#xA;visjon">
     <sourceConnections
-        id="45fc85dc-3559-43b5-a7a9-a47734e1b634"
-        source="cf785ed4-b277-42d9-85ab-2e93efff325d"
-        target="9d437fe1-c79c-4755-8c26-7e7c65698f5e"/>
+        id="f0c72b64-2565-4b16-a5d4-a1f2a9ade3df"
+        source="0eccfa65-a4ca-487b-b98b-d4c4f6693485"
+        target="f7970724-d6de-405b-8529-0922eae3e496"/>
+    <bounds
+        x="600"
+        y="400"
+        width="85"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e5b35674-d252-4263-a00d-d57e1bca1604"
+      targetConnections="2bef26a7-906e-4120-8620-45a1aeb773fd">
     <bounds
         x="696"
-        y="255"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="315ba308-46d4-45da-b84e-5374044cc50b"
-      targetConnections="748a26ae-90d9-4ed4-9009-5b32265a0cc0">
-    <sourceConnections
-        id="ba535e18-9834-46a7-88f2-0874f8773584"
-        source="315ba308-46d4-45da-b84e-5374044cc50b"
-        target="5d094fbb-3daf-4ea4-b675-8776909bd83a"/>
-    <bounds
-        x="74"
-        y="255"
-        width="263"
-        height="118"/>
+        y="396"
+        width="167"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:Goal"
-        href="Goal_3ccfa3d4-eed4-4d6f-a8ad-01584739da3f.xml#3ccfa3d4-eed4-4d6f-a8ad-01584739da3f"/>
+        href="Goal_e6548a3c-9d8c-4e34-86fe-82f66fd5e633.xml#e6548a3c-9d8c-4e34-86fe-82f66fd5e633"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="5d094fbb-3daf-4ea4-b675-8776909bd83a"
-      targetConnections="ba535e18-9834-46a7-88f2-0874f8773584"
+      id="da5b2f56-a235-4f25-a83f-80b17ba57260"
       textAlignment="1"
-      content="BR Samfunnsoppdrag">
+      content="SmartGovernment Vision">
+    <sourceConnections
+        id="2bef26a7-906e-4120-8620-45a1aeb773fd"
+        source="da5b2f56-a235-4f25-a83f-80b17ba57260"
+        target="e5b35674-d252-4263-a00d-d57e1bca1604"/>
     <bounds
-        x="120"
-        y="144"
-        width="185"
-        height="80"/>
+        x="876"
+        y="400"
+        width="111"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7beb4e0c-ef9e-4177-a9b9-635edc75514d"
+      targetConnections="470cd806-a352-453c-8701-22e94983e859">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c32a855a-6380-4e42-bebc-98a37e4eed2f"
+        source="7beb4e0c-ef9e-4177-a9b9-635edc75514d"
+        target="f7970724-d6de-405b-8529-0922eae3e496">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_1a7a6f06-dcb6-4325-ad25-98bb0aa245f0.xml#1a7a6f06-dcb6-4325-ad25-98bb0aa245f0"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="387"
+        width="205"
+        height="111"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_b973ef09-3f28-4d4a-b8f1-254de19bbe6b.xml#b973ef09-3f28-4d4a-b8f1-254de19bbe6b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f7970724-d6de-405b-8529-0922eae3e496"
-      targetConnections="fb7874b2-e678-4f0f-9dda-4121c1f1abd9 f0c72b64-2565-4b16-a5d4-a1f2a9ade3df">
+      targetConnections="fb7874b2-e678-4f0f-9dda-4121c1f1abd9 f0c72b64-2565-4b16-a5d4-a1f2a9ade3df c32a855a-6380-4e42-bebc-98a37e4eed2f">
     <bounds
-        x="688"
-        y="402"
-        width="249"
-        height="115"/>
+        x="396"
+        y="387"
+        width="193"
+        height="151"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_778a41ea-fbb1-43a6-8f0c-81eff490fcb2.xml#778a41ea-fbb1-43a6-8f0c-81eff490fcb2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="0eccfa65-a4ca-487b-b98b-d4c4f6693485"
+      id="cfecfcdd-2d6c-4bb7-a9be-870887ac32cf"
       textAlignment="1"
-      content="SKATE visjon">
+      content="SKATE Samfunnsoppdrag">
     <sourceConnections
-        id="f0c72b64-2565-4b16-a5d4-a1f2a9ade3df"
-        source="0eccfa65-a4ca-487b-b98b-d4c4f6693485"
-        target="f7970724-d6de-405b-8529-0922eae3e496"/>
+        id="470cd806-a352-453c-8701-22e94983e859"
+        source="cfecfcdd-2d6c-4bb7-a9be-870887ac32cf"
+        target="7beb4e0c-ef9e-4177-a9b9-635edc75514d"/>
     <bounds
-        x="948"
-        y="420"
-        width="149"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="98e17c87-a5ba-41fc-b821-67868f2ba8f5"
-      targetConnections="8b89db2f-5aa3-4dd4-b951-198e01861b3d ebdd8389-ed0f-410c-965c-067a8d0a43a6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="fb7874b2-e678-4f0f-9dda-4121c1f1abd9"
-        source="98e17c87-a5ba-41fc-b821-67868f2ba8f5"
-        target="f7970724-d6de-405b-8529-0922eae3e496">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_c65ce361-5554-4d91-bc71-b86b625f9b5d.xml#c65ce361-5554-4d91-bc71-b86b625f9b5d"/>
-    </sourceConnections>
-    <bounds
-        x="444"
-        y="402"
-        width="144"
-        height="115"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_9a383a16-9c21-489a-8326-4fc9949451a9.xml#9a383a16-9c21-489a-8326-4fc9949451a9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="e2af3fc6-8f28-40a8-ae5d-a1b67bb188e7"
-      textAlignment="1"
-      content="Altinn VIsjon">
-    <sourceConnections
-        id="ebdd8389-ed0f-410c-965c-067a8d0a43a6"
-        source="e2af3fc6-8f28-40a8-ae5d-a1b67bb188e7"
-        target="98e17c87-a5ba-41fc-b821-67868f2ba8f5"/>
-    <bounds
-        x="276"
-        y="405"
-        width="161"
-        height="80"/>
+        x="142"
+        y="324"
+        width="137"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grensesnitt mot eInnsyn"
+    id="cd96796e-1af1-4503-9322-7de36c84e0f0"
+    documentation="Fellesløsningen offentlig elektronisk postjournal vil per 01.01.2018 bli erstattet av ny løsning, eInnsyn. eInnsyn vil i første omgang gi forbedret søkemulighet i saker i offentlige virksomheter. På sikt kan løsningen imidlertid gi funksjonalitet som vil understøtte digital postkasse, eller også overlappe. En kan tenke seg at innbygger på sikt vil kunne følge saksbehandling om seg selv som individ gjennom eInnsyn. Skulle det bli en realitet må en vurdere grensesnittet mot digital postkasse."/>

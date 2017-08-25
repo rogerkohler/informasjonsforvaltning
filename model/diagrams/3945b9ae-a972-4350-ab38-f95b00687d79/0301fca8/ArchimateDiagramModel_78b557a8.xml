@@ -1,15 +1,15 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informasjonsforvaltning mål - satsningsforslag 2016"
+    name="Informasjonsforvaltning FDK mål - satsningsforslag 2016"
     id="78b557a8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9af01980">
     <bounds
-        x="708"
+        x="648"
         y="24"
-        width="397"
+        width="349"
         height="601"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -48,9 +48,9 @@
             href="InfluenceRelationship_164a445e.xml#164a445e"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="18"
           y="240"
-          width="158"
+          width="145"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -70,9 +70,9 @@
             href="InfluenceRelationship_3d97266d.xml#3d97266d"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="18"
           y="120"
-          width="158"
+          width="145"
           height="103"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -83,10 +83,10 @@
         id="facf7ea6"
         targetConnections="91cdcd01 a8a7f48a">
       <bounds
-          x="36"
-          y="24"
-          width="158"
-          height="49"/>
+          x="18"
+          y="12"
+          width="145"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_fa1b5c41.xml#fa1b5c41"/>
@@ -105,10 +105,10 @@
             href="AssociationRelationship_9fd2e363.xml#9fd2e363"/>
       </sourceConnections>
       <bounds
-          x="216"
-          y="192"
-          width="158"
-          height="49"/>
+          x="193"
+          y="180"
+          width="133"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_666a7806.xml#666a7806"/>
@@ -127,9 +127,9 @@
             href="AssociationRelationship_375062fa.xml#375062fa"/>
       </sourceConnections>
       <bounds
-          x="216"
+          x="193"
           y="264"
-          width="158"
+          width="133"
           height="49"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -158,9 +158,9 @@
             href="InfluenceRelationship_b83b95e7.xml#b83b95e7"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="18"
           y="324"
-          width="158"
+          width="145"
           height="85"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -180,9 +180,9 @@
             href="AssociationRelationship_c881b142.xml#c881b142"/>
       </sourceConnections>
       <bounds
-          x="216"
+          x="193"
           y="324"
-          width="158"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -204,7 +204,7 @@
       <bounds
           x="204"
           y="60"
-          width="158"
+          width="133"
           height="49"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -215,9 +215,9 @@
         id="6d04cef2"
         targetConnections="1c739724">
       <bounds
-          x="36"
-          y="480"
-          width="158"
+          x="24"
+          y="468"
+          width="139"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -228,9 +228,9 @@
         id="55e18ad2"
         targetConnections="37d82d16">
       <bounds
-          x="36"
+          x="24"
           y="540"
-          width="158"
+          width="139"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -250,10 +250,10 @@
             href="AssociationRelationship_ce5468a9.xml#ce5468a9"/>
       </sourceConnections>
       <bounds
-          x="216"
-          y="420"
-          width="158"
-          height="49"/>
+          x="192"
+          y="408"
+          width="134"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_5225d7a7.xml#5225d7a7"/>
@@ -339,9 +339,9 @@
           href="InfluenceRelationship_265cec27.xml#265cec27"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="27"
-        width="265"
+        x="408"
+        y="26"
+        width="205"
         height="598"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -360,9 +360,9 @@
           href="InfluenceRelationship_c8e03524.xml#c8e03524"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="204"
         y="48"
-        width="251"
+        width="179"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -381,9 +381,9 @@
           href="InfluenceRelationship_5a92a04e.xml#5a92a04e"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="123"
-        width="251"
+        x="204"
+        y="120"
+        width="179"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -402,9 +402,9 @@
           href="InfluenceRelationship_1333b509.xml#1333b509"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="195"
-        width="251"
+        x="204"
+        y="186"
+        width="179"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -423,9 +423,9 @@
           href="InfluenceRelationship_eb6a79d3.xml#eb6a79d3"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="267"
-        width="251"
+        x="204"
+        y="252"
+        width="179"
         height="61"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -444,9 +444,9 @@
           href="InfluenceRelationship_679a6f75.xml#679a6f75"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="351"
-        width="251"
+        x="204"
+        y="327"
+        width="179"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -465,9 +465,9 @@
           href="InfluenceRelationship_3b4a0fb9.xml#3b4a0fb9"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="423"
-        width="253"
+        x="203"
+        y="396"
+        width="180"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -492,10 +492,10 @@
           href="AssociationRelationship_3c4dcd26.xml#3c4dcd26"/>
     </sourceConnections>
     <bounds
-        x="1140"
-        y="189"
+        x="1032"
+        y="195"
         width="145"
-        height="151"/>
+        height="133"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_481f6c2f.xml#481f6c2f"/>
@@ -505,8 +505,8 @@
       id="f5814fcd"
       targetConnections="608d610d">
     <bounds
-        x="1140"
-        y="348"
+        x="1032"
+        y="335"
         width="145"
         height="40"/>
     <archimateElement
@@ -518,8 +518,8 @@
       id="2b66f157"
       targetConnections="07509bbf">
     <bounds
-        x="1140"
-        y="393"
+        x="1032"
+        y="381"
         width="145"
         height="40"/>
     <archimateElement
@@ -549,8 +549,8 @@
           href="AssociationRelationship_9a488e6f.xml#9a488e6f"/>
     </sourceConnections>
     <bounds
-        x="1140"
-        y="24"
+        x="1032"
+        y="36"
         width="145"
         height="151"/>
     <archimateElement
@@ -562,8 +562,8 @@
       id="6a4eda48"
       targetConnections="2ff16d72">
     <bounds
-        x="1140"
-        y="441"
+        x="1032"
+        y="432"
         width="145"
         height="64"/>
     <archimateElement

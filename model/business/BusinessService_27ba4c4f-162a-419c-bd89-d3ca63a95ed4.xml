@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utskrifts- og forsendelsestjeneste"
+    id="27ba4c4f-162a-419c-bd89-d3ca63a95ed4"
+    documentation="Sende dokumenter og brev til utskrift og papirforsendelse."/>
