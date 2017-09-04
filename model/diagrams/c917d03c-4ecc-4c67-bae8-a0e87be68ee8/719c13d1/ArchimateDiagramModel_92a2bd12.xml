@@ -453,6 +453,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="4c139d2f">
+    <bounds
+        x="770"
+        y="168"
+        width="106"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_fa432c29.xml#fa432c29"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="b9ed903a">
     <bounds
         x="766"
@@ -498,17 +510,5 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_df791c13.xml#df791c13"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="76404138-85ba-4d9d-ad2e-544344ee1036">
-    <bounds
-        x="768"
-        y="174"
-        width="109"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_a527afa0.xml#a527afa0"/>
   </children>
 </archimate:ArchimateDiagramModel>
