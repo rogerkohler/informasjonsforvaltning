@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D. Technology Architecture"
+    id="fdc95f84-13f3-47a4-8a17-4e5a2deaee11"
+    documentation="Objectives: &#xA;- Develop the Target Technology Architecture that enables the logical and physical application and data components and the Archtecture Vision&#xA;- Identify candidate Architecture Roadmap componens based upon gaps between the Baseline and Target Technolgy Architecture&#xA;&#xA;Begrepet omfatter alt vi oppfatter som IT-teknisk - under applikasjonsplattform.&#xA;&#xA;Approach&#xA;* Review the technology architecture resources avaialbe in the Architecture repostory&#xA;&#x9;- Exiting IT services in the IT repository or IT service cagalog&#xA;..."/>

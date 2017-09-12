@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="viewpoint"
+    id="460a3249-6eb7-4ac9-b001-c62a0edfe60d">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_52417ee2-b060-4a05-b426-9a8561e345d4.xml#52417ee2-b060-4a05-b426-9a8561e345d4"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_7fd1ed7c-bf18-48ba-b872-d02bb464df9a.xml#7fd1ed7c-bf18-48ba-b872-d02bb464df9a"/>
+</archimate:AssociationRelationship>

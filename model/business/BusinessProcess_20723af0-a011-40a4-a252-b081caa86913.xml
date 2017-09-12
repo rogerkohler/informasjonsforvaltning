@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="H. Architecture Change Management"
+    id="20723af0-a011-40a4-a252-b081caa86913"
+    documentation="Benefits realization. Arkitekturstyre. Følge opp verdien av implementert løsning.&#xA;&#xA;Objectives:&#xA;* Ensure that the architecture lifecycle is mainatined&#xA;* Ensure that the Architechture Governance Framework is execued&#xA;* Ensure that the enterprise Archteccture Capability meets current requirements&#xA;&#xA;Approach:&#xA;* The goal of an architeture change management process process is to ensure that the architecture acheives its original target business value.&#xA;* This can be done by:&#xA;&#x9;1. ensuring that changes to the architecture are managed properly&#xA;&#x9;2. supporting a dynamic architecture&#xA;* The process will determine the circumstances under which:&#xA;&#x9;1. The architecture will be permitted to change after depoloyment, and the ropocess for thsi&#xA;    2. The ADM will be used again"/>

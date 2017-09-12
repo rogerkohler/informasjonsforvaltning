@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture landscape"
+    id="e2a8cb6d-4823-46de-bda6-ca21a099e831"
+    documentation="1. Strategic Architecture (er &quot;bred&quot; men med lite &quot;dybde&quot;)&#xA;- a long term summary view of the entire enterprise&#xA;- allow for direction setting at an executive level&#xA;&#xA;2. Segment Architecture  (dekker &quot;del arkitektur&quot; innenfor et bestemt område)&#xA;- provide more detailed operating models for areas within an enterprise&#xA;- used at the program or portifolio level to organize and operationally align more detailed change activity&#xA;&#xA;3. Capability Architecture (produserer et konkret resultat innenfor et segment)&#xA;- show in a more detail how the enterprise support a particular capability&#xA;- use to provide an overview of current capability, target capability, and capability &#xA;..."/>

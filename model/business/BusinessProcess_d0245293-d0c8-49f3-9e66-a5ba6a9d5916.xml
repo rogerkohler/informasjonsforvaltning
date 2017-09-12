@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F. Migration Planning"
+    id="d0245293-d0c8-49f3-9e66-a5ba6a9d5916"
+    documentation="Detaljert migreringsplanlegging. Sammenheng med prosjektkontorer osv.&#xA;&#xA;Objectives:&#xA;* Finalize the Architecture Roadmap and the supporting Implementation and Migration Plan&#xA;* Ensure that the Implementaiton and Migration Plan is coordinated with the enterprise's approach to manageming and impleentation change in the enterprises overal change portifolio.&#xA;* Ensure that the business value and cos of work packages and traisison Architectures is uderstood by key stakeholders&#xA;&#xA;Approach&#xA;* The focus is cration of the Implementation and Migration plan in co-operation with project and portifolio managers&#xA;* Activites include the dependencies, costs, and benefits of the various migration projects within the context of the entpries's other activity"/>

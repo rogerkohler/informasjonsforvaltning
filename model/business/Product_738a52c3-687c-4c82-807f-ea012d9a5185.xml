@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Continiuum"
+    id="738a52c3-687c-4c82-807f-ea012d9a5185"
+    documentation="Handler om klassifisering av arkitekturmodeller&#xA;&#xA;Består av to del-continiuum&#xA;* Architecure continiuum: A-D (vendor neutral)&#xA;* Solution continiuum E-F (vendor aware)&#xA;&#xA;Fire nivåer&#xA;* Foundation Architecture &lt;-> Foundation solutions&#xA;* Common systems Architecture &lt;-> Common System Solutions&#xA;* Industry Architecture &lt;-> Industry solutions&#xA;* Organization-specific architectures &lt;-> Organization-Specific Solutions&#xA;&#xA;Overview:&#xA;* Classifying all assets...&#xA;&#xA;&#xA;It is a virual reposotory&#xA;It is a view on teh physical architecture&#xA;...&#xA;&#xA;The purpose of Enterprise Continiuum &#xA;- it enables effective use of commercial of-the-shelf (COTS) products&#xA;- ...&#xA;&#xA;&#xA;"/>

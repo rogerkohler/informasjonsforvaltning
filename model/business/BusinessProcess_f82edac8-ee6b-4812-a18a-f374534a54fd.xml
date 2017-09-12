@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G. Implementation Governance"
+    id="f82edac8-ee6b-4812-a18a-f374534a54fd"
+    documentation="Kan ha et sterkt innslag av organisatoriske endringer. Selve implementeringsprosjektet starter her. Fra installere noe hyllevare, eller bygge. Andre grupper gjør dette. TOGAF skal gjøre &quot;governance&quot; av dette. Passer f.eks. på at standarder følges. Når vi går ut av fase G har vi en ferdig implementert løsning, overlevert til drift. SLA-avtaler på plass.&#xA;&#xA;Objectives:&#xA;* Ensure conformance with the Target Architecture by implementation projects&#xA;* Perform approapriate Architecture Governance functions for the solution and any implementation-driven architecture Change Requests.&#xA;&#xA;Approach:&#xA;* Phase G relates the archtectrue to the implementation through the Architecture Contract&#xA;* The information for sucessful management of the projects must be brough togheter&#xA;* The development happens in parallel with Phase G&#xA;"/>

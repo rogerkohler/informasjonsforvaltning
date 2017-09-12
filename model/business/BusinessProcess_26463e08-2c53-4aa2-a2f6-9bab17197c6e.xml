@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkitekturuviklingen (vendor-neutral)"
+    id="26463e08-2c53-4aa2-a2f6-9bab17197c6e"
+    documentation="Phase B, C and D:&#xA;&#xA;Common objective:&#xA;* develop the Target Business, Data, Application and Technology Architecture&#xA;* Identify candidate Architecture Roadmap components based upon gaps between Baseline and Target Architectures&#xA;&#xA;Common steps:&#xA;* Developing a Baseline Description, if applicable&#xA;* Developing a Target Description&#xA;* Perform Gap Analysis&#xA;* Define Candidate Roadmap Components&#xA;* Create Architecture Definition Documnet &amp; Archiceture Requriements Specification&#xA;* Conduct Formal Stakeholder Review "/>

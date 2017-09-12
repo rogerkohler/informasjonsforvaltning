@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preliminary"
+    id="88d58ed8-0d96-494c-8514-371aa3e48de1"
+    documentation="Mandat, forutsetningene for å jobbe med Arkitektur.&#xA;Hva skal vi gjøre over tid! &#xA;Hva er driverne i vår organisasjon? Hva vil politikerne, hva er det push på?&#xA;Hvordan plasseres vi i resten av det vi samhadler med?&#xA;&#xA;Objectives: &#xA;* Determine desired Architecture Capability&#xA;* Establish the architecture capability&#xA;&#xA;Approach:&#xA;* Defining the Enterprise&#xA;* Identifying drivers and organizational context&#xA;* Defining requirements and architecture principles&#xA;* Defining the framework to be used and its relationship to otheer frameworks&#xA;* Evaluation the enterprise architecture maturity."/>
