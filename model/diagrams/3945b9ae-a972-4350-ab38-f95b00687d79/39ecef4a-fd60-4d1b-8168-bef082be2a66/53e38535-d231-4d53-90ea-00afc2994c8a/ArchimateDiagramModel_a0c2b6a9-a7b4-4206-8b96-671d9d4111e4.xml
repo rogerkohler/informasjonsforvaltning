@@ -219,4 +219,15 @@
         width="137"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1e60fdb3-ac9a-4f2c-93f4-0cb1936044d1"
+      textAlignment="1"
+      content="Visjon er fremtidsbildet organisasjonen etterstreber">
+    <bounds
+        x="762"
+        y="93"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

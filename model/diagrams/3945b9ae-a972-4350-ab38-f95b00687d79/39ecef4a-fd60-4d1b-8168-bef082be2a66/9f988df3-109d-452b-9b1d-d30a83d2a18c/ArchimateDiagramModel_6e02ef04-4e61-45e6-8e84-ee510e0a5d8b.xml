@@ -1,0 +1,54 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BR Verdier"
+    id="6e02ef04-4e61-45e6-8e84-ee510e0a5d8b"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="0a770514-64fc-48a9-825d-a0018ce5bdee"
+      name="Brønnøysundregistrenes verdier"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="48"
+        width="349"
+        height="266"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ab0225c8-ff54-45f0-bb8c-e33565f17f52">
+      <bounds
+          x="36"
+          y="36"
+          width="120"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Value"
+          href="Value_925ac561-b69d-410e-a8eb-ed0a9df899f2.xml#925ac561-b69d-410e-a8eb-ed0a9df899f2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="05354e5d-7d71-4b2a-85b6-8e5ff1e928c5">
+      <bounds
+          x="36"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Value"
+          href="Value_35dc1aa5-894b-4682-9eb4-a2a88e6c5a51.xml#35dc1aa5-894b-4682-9eb4-a2a88e6c5a51"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="531446ed-9a47-4ff4-a169-8998cff2986e">
+      <bounds
+          x="36"
+          y="180"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Value"
+          href="Value_19f55bfe-1056-4cc4-94b2-f128edb476bf.xml#19f55bfe-1056-4cc4-94b2-f128edb476bf"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
