@@ -8,7 +8,7 @@
       id="74e198aa-25e2-491d-9e0e-5ccc09a7aa6b"
       name="St.prop.1 2016-2017 Hovedmål">
     <bounds
-        x="492"
+        x="24"
         y="12"
         width="589"
         height="343"/>
@@ -144,7 +144,7 @@
       name="Brukereffektmål 2016"
       textAlignment="1">
     <bounds
-        x="493"
+        x="25"
         y="372"
         width="600"
         height="169"/>
@@ -191,7 +191,7 @@
       name="Oppdrag 2017 (utdrag)"
       textAlignment="1">
     <bounds
-        x="493"
+        x="25"
         y="552"
         width="600"
         height="277"/>

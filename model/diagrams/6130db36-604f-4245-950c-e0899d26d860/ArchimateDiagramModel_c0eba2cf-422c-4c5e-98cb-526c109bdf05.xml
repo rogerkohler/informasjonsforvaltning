@@ -601,8 +601,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b70b0c5e-7299-4c50-af90-1df8e4740dba"
-      targetConnections="98035bf9-bf6f-4321-b281-cebc2ce6024c">
+      id="b70b0c5e-7299-4c50-af90-1df8e4740dba">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e3b02a79-1308-47fd-bbfb-10baee376520"
@@ -622,21 +621,6 @@
         href="CourseOfAction_ff73511c-197c-45d4-80a5-7953e113bdee.xml#ff73511c-197c-45d4-80a5-7953e113bdee"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="5761f775-4a15-442f-88de-1a1339efef2e"
-      textAlignment="1"
-      content="I redgjørelsen her åpnes her for en rekke &quot;brev&quot; og &quot;varslinger&quot; til innbygger som går ut over Digitaliseringsrundskrivet H-09/16 (&quot;der det i dag sendes brev&quot;).&#xD;&#xA;Dette punktet benytter det vide dokumentbegrepet som også innbefatter strukturert informasjon uten å avgrense seg.&#xD;&#xA;Teksten er ikke med på å &quot;gjøre det lett å forstå hvilken innbyggerkommunikasjo postkassen er egenet til&quot; ved ikke å ta opp påståtte skillet mellom digiatl postkasse og det som omtales som &quot;avanserte løsninger&quot;. ">
-    <sourceConnections
-        id="98035bf9-bf6f-4321-b281-cebc2ce6024c"
-        source="5761f775-4a15-442f-88de-1a1339efef2e"
-        target="b70b0c5e-7299-4c50-af90-1df8e4740dba"/>
-    <bounds
-        x="-199"
-        y="354"
-        width="459"
-        height="121"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b84c7de6-321c-47eb-a6f2-a1bdaffe10d4"
       targetConnections="a2f38b40-7d12-4893-bf17-a324bd377f94 607dc3f3-3256-4c3c-b2c0-409716ea16f8 0a65ded4-47df-4708-ae77-44a0a5a625ee">
@@ -651,8 +635,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b599c9e3-eaed-4f05-b929-967e8d83fd67"
-      targetConnections="c018f60f-f143-47ae-befe-6b670b0637da">
+      id="b599c9e3-eaed-4f05-b929-967e8d83fd67">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="607dc3f3-3256-4c3c-b2c0-409716ea16f8"
@@ -691,21 +674,6 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_b3a2b5aa-774a-48f5-a9ad-a66040de4b66.xml#b3a2b5aa-774a-48f5-a9ad-a66040de4b66"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="63423652-fa20-46e8-b7dc-4cf96bf09f0e"
-      textAlignment="1"
-      content="Her sammenlikner de seg direkte med Altinn. Dette er ikke lenger en postkasse løsning, men det offentlige som utvikler to avanserte løsninger med identisk funksjonalitet.">
-    <sourceConnections
-        id="c018f60f-f143-47ae-befe-6b670b0637da"
-        source="63423652-fa20-46e8-b7dc-4cf96bf09f0e"
-        target="b599c9e3-eaed-4f05-b929-967e8d83fd67"/>
-    <bounds
-        x="-199"
-        y="480"
-        width="459"
-        height="61"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
