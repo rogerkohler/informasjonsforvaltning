@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="View"
     id="f074cfbc-78f2-48f3-8c6e-aaa887664529"
-    documentation="En arkitekturmodell består av et sett med Views"/>
+    documentation="En arkitekturmodell består av et sett med Views.&#xA;&#xA;Stakeholders&#xA;* People with key roles in or concerns about the outcome of an architecture.&#xA;* Determine acceptability of the architecture / system&#xA;* Type are Users, Individuals, Organization, Department, Etc.&#xA;* Every type hav their own concerns about the architecture inside the project&#xA;* Hol a *View* of the architecture&#xA;&#xA;Concerns&#xA;* are interests crutially important to stakeholders&#xA;* Concerns derive requriements&#xA;&#xA;View and Viewpoints addresses the stakeholder-concern relation."/>

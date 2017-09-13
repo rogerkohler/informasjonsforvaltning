@@ -1,5 +1,5 @@
-<archimate:Product
+<archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Building block"
-    id="05aa87b5-2414-49d1-8337-0967daf8774e"
+    name="Architecture Building Block"
+    id="e50424f4-9588-402c-8960-00785af2ec43"
     documentation="hides internal complexity&#xA;has a described..."/>

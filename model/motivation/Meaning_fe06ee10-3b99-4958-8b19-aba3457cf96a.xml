@@ -1,4 +1,5 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewpoint"
-    id="fe06ee10-3b99-4958-8b19-aba3457cf96a"/>
+    id="fe06ee10-3b99-4958-8b19-aba3457cf96a"
+    documentation="Malen du bruker for å generere viewet.&#xA;&#xA;Sitat fra bok:&#xA;Viewpoints er en mekanisme for å fokusere på bestemte aspekter av arkitekturen... Viewpoint gir stakholders mulighet til å gi stakeholders tilbakemelding på deler av arkitekturen uten at de blir distrahert av..."/>
