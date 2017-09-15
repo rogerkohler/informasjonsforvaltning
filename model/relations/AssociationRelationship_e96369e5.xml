@@ -3,8 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e96369e5">
   <source
-      xsi:type="archimate:Deliverable"
-      href="Deliverable_963ec094.xml#963ec094"/>
+      xsi:type="archimate:Constraint"
+      href="Constraint_6ac2547d-62a2-4a02-a442-dc0ec384fe0e.xml#6ac2547d-62a2-4a02-a442-dc0ec384fe0e"/>
   <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_5a0553d9.xml#5a0553d9"/>

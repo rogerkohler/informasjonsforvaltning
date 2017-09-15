@@ -3,8 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="4fdfb68c-30b7-4392-b7f8-971f36f4c39f">
   <source
-      xsi:type="archimate:Driver"
-      href="Driver_718ea3cf.xml#718ea3cf"/>
+      xsi:type="archimate:Constraint"
+      href="Constraint_2fb21773-6a45-4d91-98df-38837dc5a1ef.xml#2fb21773-6a45-4d91-98df-38837dc5a1ef"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_4549efbd.xml#4549efbd"/>
