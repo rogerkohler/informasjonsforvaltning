@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.3.4 Viderebruk"
+    name="1.3.5 Viderebruk"
     id="58eee071-e406-4a7a-bb55-0a6d65434c2f"
     documentation="I samsvar med viderebruksbestemmelsene i offentleglova, skal virksomheten gjøre egnet informasjon tilgjengelig i maskinlesbare formater, fortrinnsvis gjennom API'er. Virksomheten kan få dekket sine kostnader ved tilgjengeliggjøring i tråd med offentleglovas bestemmelser. Data bør tilgjengeliggjøres under en åpen lisens som for eksempel Norsk lisens for opne data (NLOD). Data som er tilgjengelig for viderebruk bør synliggjøres på portalen data.norge.no."/>

@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1.3.3 Gjenbruk informasjon"
+    name="1.3.4 Gjenbruk informasjon"
     id="2b2bd416-3059-4f80-b6f9-090885bfbb85"
     documentation="Virksomheten skal gjenbruke informasjon, i stedet for å spørre brukerne på nytt om forhold de allerede har opplyst. Før virksomheten etterspør informasjon, skal den sjekke om den samme informasjonen allerede finnes, og er tilgjengelig i egen eller i andre virksomheter. Finnes informasjonen hos en annen offentlig virksomhet, skal informasjonen hentes derfra, forutsatt at det foreligger hjemmel. Virksomheten som ønsker informasjon utlevert, må selv sørge for hjemmel for gjenbruk av informasjonen."/>

@@ -608,20 +608,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="dd722af8"
-      fontColor="#ffffff"
-      fillColor="#ff8000">
-    <bounds
-        x="-75"
-        y="577"
-        width="123"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_badb9313.xml#badb9313"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="2c3a6d80"
       fontColor="#ffffff"
       fillColor="#ff0000">
@@ -1396,5 +1382,17 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_101e39d7.xml#101e39d7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f4657b07-ebe3-4e81-8028-8f580aba9983">
+    <bounds
+        x="-94"
+        y="612"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_6c4060f1.xml#6c4060f1"/>
   </children>
 </archimate:ArchimateDiagramModel>
