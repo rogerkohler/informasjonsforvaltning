@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
-    id="3dc1c81f">
+    name="Motivation"
+    id="3dc1c81f"
+    viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ea5bc87b"
@@ -107,5 +108,17 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_8a4b5476.xml#8a4b5476"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b7e2e286-6ed5-4820-90e0-a20d860df882">
+    <bounds
+        x="348"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_42bbb276-46d0-4014-bd38-5a972eb798bc.xml#42bbb276-46d0-4014-bd38-5a972eb798bc"/>
   </children>
 </archimate:ArchimateDiagramModel>
