@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Role"
+    id="5022ebdb-1679-47fe-bd40-d84896494488"
+    documentation="is responsible to perform specific behavior, to which an actor can be assigned (but it not a behavioral enity itself)."/>

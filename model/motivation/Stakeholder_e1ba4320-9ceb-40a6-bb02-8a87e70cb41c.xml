@@ -1,0 +1,5 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder"
+    id="e1ba4320-9ceb-40a6-bb02-8a87e70cb41c"
+    documentation="The role of an individual, team, or organiazation (or classes thereof) that represents their interest in the outcome of the architecture.  Preferably a noun. Has interest/concerns about the organization and its EA, that lead them to change, set , emphazise goals. &#xA;Example stakeholders: CEO, board, business unit, app architect, customer, ops manager, app user, external legislative authority.&#xA;"/>
