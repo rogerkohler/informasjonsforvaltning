@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetsdimensjoner"
+    id="669ce9f8-64e8-41af-9909-560ab5da0ca1"
+    documentation="Datakvalitet inkluderer vurderinger av datasett rundt ulike Kvalitetsdimensjoner, for eksempel dekningsgraden til dataene dvs. om det mangler verdier. I tillegg inkluderer det referanser til Standarder som datasettet forholder seg til (Compliancy). Utstrakt gjenbruk av informasjon forutsetter at bruker forstår eventuelle svakheter. En standardisering av kvalitetsdimensjoner og etablering av en katalog over standarder er to tiltak for datakvalitet (2018-)."/>

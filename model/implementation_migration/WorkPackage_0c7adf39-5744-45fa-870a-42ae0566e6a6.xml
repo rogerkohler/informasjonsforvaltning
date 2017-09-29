@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logging (G)"
-    id="0c7adf39-5744-45fa-870a-42ae0566e6a6"/>
+    id="0c7adf39-5744-45fa-870a-42ae0566e6a6"
+    documentation="Datatilsynet har i møte med Brønnøysundregistrene mai 2017 også påpekt behovet for ”personvern-kompenserende tiltak” ved mer utstrakt deling av data. Personvernforordningen (GDPR) krever at bruker skal ha oversikt over sine egne data. En oversikt over hvor brukers data finnes gjennom innsynstjenester er aktuelt, men også det å logge tjenester som viser hvem som har benyttet brukers data (2018) vil være et aktuelt tiltak."/>

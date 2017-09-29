@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-katalog (G)"
-    id="7a3ae279-a727-4f32-9a4c-d574c33c90d5"/>
+    id="7a3ae279-a727-4f32-9a4c-d574c33c90d5"
+    documentation="For å ta i bruk dataene må tilgangen til opplysningene være beskrevet gjennom API-beskrivelser. API-ene må beskrives og forvaltes av dataeier (eller distributør) (API Management), og inkludere detaljer som protokoller, utvekslingsformater, sikkerhetskrav, innholdsstrukturer, avhengigheter til kodelister, terms of service m.m. API-beskrivelsene vil finnes som en del av datakatalogen. (2018)"/>

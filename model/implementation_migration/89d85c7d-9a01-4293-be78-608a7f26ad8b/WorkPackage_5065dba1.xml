@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere ny nasjonal kodeverksløsning"
-    id="5065dba1"/>
+    name="Etablere ny nasjonal tilgang til referansedata/kodeverk"
+    id="5065dba1"
+    documentation="Registre knyttes gjerne til referansedata fra andre etater. Referansedataene benyttes også som lovlige verdier i skjema, og benyttes i statistikkproduksjon. Referansedata, kodelister og klassifikasjoner er en spesiell type datasett som må tilgjengeliggjøres langt bedre enn i dag for å oppnå en sømløs deling av data. Brønnøysundregistrene har et eget ansvar her rundt lister som organisasjonsformer og tilsvarende bruk av andres koder, for eksempel næringskoder og kommunelister. (2019)"/>
