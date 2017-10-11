@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utvikle og forvalte modellkatalog verktøy"
-    id="a4138a7f"/>
+    name="Migrere og videreutvikle modellkatalog (SERES)"
+    id="a4138a7f"
+    documentation="Ulik representasjon av sentral informasjon, for eksempel adresse, personopplysninger og organisasjoner medfører et løpende integrasjonsarbeid og risiko for kvalitetsforringelser. EU er pådriver for etablering av informasjonsmodeller som forener ulike land og virksomheters representasjoner og reduserer kostnaden for sammenstilling av data. Lokalt betyr dette også for BRSys en mer sømløs integrasjon mellom registrene. Altinn har verktøystøtte for informasjonsmodellering i dag (SERES) som vil migreres til ny arkitektur (2017) og etter hvert knyttes tettere til Tjenester 3.0 (2018-)"/>

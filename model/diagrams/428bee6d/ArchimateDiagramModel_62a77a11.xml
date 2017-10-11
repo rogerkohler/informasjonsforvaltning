@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tiltak avhengigheter"
+    name="Detaljerte Tiltak - avhengigheter"
     id="62a77a11">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

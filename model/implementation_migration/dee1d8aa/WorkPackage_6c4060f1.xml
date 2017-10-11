@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Etablere løsning for Felles datakatalog (G)"
-    id="6c4060f1"/>
+    id="6c4060f1"
+    documentation="Felles datakatalog (Brønnøysundregistrene) etablerer en oversikt over data det offentlige forvalter. Oversikten skal gi mulighet for gjenbruk av informasjon i stedet for innhenting på ny fra næringsliv og innbyggere og dermed understøtte &quot;once only&quot;-prinsippet. Opplysningene skal beskrives av dataeier (forvalter av opplysningene) slik at andre som ønsker å benytte dem kan oppdage dem, evaluere om de er egnet til aktuell bruk, og dersom de er egnet ut fra kvalitet og sikkerhet ta kontakt med organisasjonen som forvalter dataene (2017). Difi har spilt inn &quot;Felles datakatalog&quot; som felleskomponent til KMD (2017), og det er dialog om at Felles datakatalog overtar oversikten over åpne offentlige datasett som i dag ligger på data.norge.no (2018), mens pådriveraktiviteten her fortsetter i Difi. Brønnøysundregistrene må selv også opprette en oversikt over datasett (intern datakatalog )."/>

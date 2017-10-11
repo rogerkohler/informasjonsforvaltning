@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nasjonal platform for datadeling (G)"
-    id="c26c0873-d259-4071-a544-1a04ae74e8a4"/>
+    id="c26c0873-d259-4071-a544-1a04ae74e8a4"
+    documentation="Et nasjonalt målbilde for digitalisering utført av Difi i 2017 med innspill fra bl.a. Brønnøysundregistrene har konkludert med behov for en plattform for datadeling. En slik plattform skal benytte eksisterende felleskomponenter og infrastruktur. En viktig del av dette er forståelsen og prosesser for autoritative data (master data management) og beskrivelse av grensesnittene (API-er, se over). Brønnøysundregistrene skal som et minimum her bidra med felleskomponenter for autorisasjon og datakatalog (med API-er), men grenser også opp mot Altinns produktstrategis Integrasjonsplattform. Tiltaket er foreløpig på konseptstadiet, men forventes å konkretiseres av Difi høsten 2017."/>

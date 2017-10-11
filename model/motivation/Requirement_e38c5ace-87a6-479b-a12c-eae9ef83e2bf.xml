@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilrettelegge for maskinelt prosessering av meldinger internt i en virksomhet"
+    id="e38c5ace-87a6-479b-a12c-eae9ef83e2bf"
+    documentation="Legges til rette for at virksomhetene selv får muligheter til maskinelt kan prosessere meldinger/forsendelser videre internt. &#xD;&#xA;&#xD;&#xA;Det er lagt til grunn at dette skal løses ved bruk av metadata. I dette ligger det å tilby &quot;standardiserte&quot; metadata, slik at det er mulig å utstyre en melding/forsendelse med nok informasjon om datainnholdet. Ved å gjøre dette, vil virksomheter være i stand til selv å rute meldingen videre internt til ønsket del av virksomheten, riktig ansvarsområde, fagområde eller riktig person/rolle. Virksomheter som ønsker det kan dermed prosessere meldinger/henvendelser effektivt internt i egen virksomhet.  For eksempel ved at meldinger om MVA automatisk blir sendt til rett avdeling/person.&#xD;&#xA;"/>
