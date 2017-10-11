@@ -49,7 +49,7 @@
     <bounds
         x="348"
         y="60"
-        width="217"
+        width="185"
         height="80"/>
   </children>
   <children
@@ -78,7 +78,7 @@
     </sourceConnections>
     <bounds
         x="156"
-        y="204"
+        y="228"
         width="135"
         height="55"/>
     <archimateElement
