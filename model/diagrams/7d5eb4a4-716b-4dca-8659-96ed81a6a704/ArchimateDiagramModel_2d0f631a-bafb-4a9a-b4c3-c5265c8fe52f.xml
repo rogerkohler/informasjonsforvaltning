@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Layer"
+    name="Datadelingsplattform Business Layer"
     id="2d0f631a-bafb-4a9a-b4c3-c5265c8fe52f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
