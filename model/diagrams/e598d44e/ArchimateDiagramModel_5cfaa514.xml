@@ -1,9 +1,6 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-<<<<<<< HEAD
-    name="Resources"
-    id="5cfaa514"/>
-=======
     name="SmartGovernment Business"
     id="5cfaa514">
   <children
@@ -986,4 +983,3 @@
         href="Representation_21ac7d91-c6c1-476b-bf7e-286f0262e1c7.xml#21ac7d91-c6c1-476b-bf7e-286f0262e1c7"/>
   </children>
 </archimate:ArchimateDiagramModel>
->>>>>>> 219353cca9539c2a6b8f8403d0d2dede12111bbc
