@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategi CEF Digital og ISA2"
+    id="7dafc9a4-14d9-43d2-9044-35335953b430">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="635ca9b8-8010-4298-a591-810a9580dfd3">
+    <bounds
+        x="156"
+        y="120"
+        width="685"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_09624de6-c175-4d1a-9c13-42eec958af2a.xml#09624de6-c175-4d1a-9c13-42eec958af2a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
