@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eInvoicing"
+    id="7ce18fbe-fbad-4881-981d-0929a4b094e8"
+    documentation="Format og transport for elektronisk veksling av fakturaopplysninger mellom leverandører og kjøper, på tvers av landegrenser i EU."/>

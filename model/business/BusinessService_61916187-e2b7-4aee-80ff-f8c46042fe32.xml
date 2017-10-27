@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSignature"
+    id="61916187-e2b7-4aee-80ff-f8c46042fe32"
+    documentation="Signering av dokumenter og validering av notifiserte eID-er på tvers av landegrenser."/>
