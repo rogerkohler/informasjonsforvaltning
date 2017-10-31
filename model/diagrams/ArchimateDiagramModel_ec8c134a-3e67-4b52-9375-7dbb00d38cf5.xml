@@ -118,9 +118,9 @@
             href="FlowRelationship_279a9129-a3cb-442c-8539-ac134fa6c1eb.xml#279a9129-a3cb-442c-8539-ac134fa6c1eb"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="132"
           y="24"
-          width="181"
+          width="229"
           height="37"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
@@ -142,7 +142,7 @@
       <bounds
           x="12"
           y="24"
-          width="145"
+          width="97"
           height="37"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
