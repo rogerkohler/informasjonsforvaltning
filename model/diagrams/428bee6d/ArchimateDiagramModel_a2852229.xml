@@ -93,7 +93,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bd52b67a"
-      targetConnections="a70c1c11 a271c426 27222c89">
+      targetConnections="a70c1c11 27222c89 49334121-ccb4-4dd8-9fc8-cf92af0fe33c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="79a48eb4"
@@ -696,27 +696,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ba080c8c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a271c426"
-        source="ba080c8c"
-        target="bd52b67a">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_d4e1fa7c.xml#d4e1fa7c"/>
-    </sourceConnections>
-    <bounds
-        x="840"
-        y="138"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_0fa2e796.xml#0fa2e796"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="8f3e4f12">
     <bounds
         x="840"
@@ -897,5 +876,26 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_6c4060f1.xml#6c4060f1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f241b0b2-981f-4921-8562-6d945776deae">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="49334121-ccb4-4dd8-9fc8-cf92af0fe33c"
+        source="f241b0b2-981f-4921-8562-6d945776deae"
+        target="bd52b67a">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d4e1fa7c.xml#d4e1fa7c"/>
+    </sourceConnections>
+    <bounds
+        x="840"
+        y="138"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_7a3ae279-a727-4f32-9a4c-d574c33c90d5.xml#7a3ae279-a727-4f32-9a4c-d574c33c90d5"/>
   </children>
 </archimate:ArchimateDiagramModel>
