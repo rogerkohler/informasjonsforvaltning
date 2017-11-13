@@ -55,7 +55,7 @@
         x="107"
         y="24"
         width="638"
-        height="385"/>
+        height="361"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2c207e27-1cc0-468c-b539-e21a9161c65e"
@@ -88,9 +88,9 @@
           source="e033e031-f4fb-4378-823a-2dc8431d9451"
           target="1712c1fa-eaf9-47f7-8dfc-949316748c96">
         <bendpoints
-            startX="-12"
+            startX="-10"
             startY="81"
-            endX="204"
+            endX="182"
             endY="-63"/>
         <bendpoints
             startX="-156"
@@ -116,9 +116,9 @@
           source="e033e031-f4fb-4378-823a-2dc8431d9451"
           target="ac4a4d97-3869-42ac-8cfa-1ddf672b03f6">
         <bendpoints
-            startX="-12"
+            startX="-10"
             startY="81"
-            endX="-192"
+            endX="-179"
             endY="-63"/>
         <bendpoints
             startX="228"
@@ -130,7 +130,7 @@
       </sourceConnections>
       <bounds
           x="203"
-          y="156"
+          y="144"
           width="217"
           height="55"/>
       <archimateElement
@@ -142,8 +142,8 @@
         id="1712c1fa-eaf9-47f7-8dfc-949316748c96"
         targetConnections="f3336de1-7ab8-4f40-a94b-a9ea9a192a1b df9bcc4d-bbbc-4744-8dd6-38e62d34c6da">
       <bounds
-          x="12"
-          y="300"
+          x="35"
+          y="288"
           width="169"
           height="55"/>
       <archimateElement
@@ -156,7 +156,7 @@
         targetConnections="d08a2851-63ab-48eb-9b9b-ce9958d5280c de5627c7-18eb-415c-9450-0394ce989f6b">
       <bounds
           x="216"
-          y="300"
+          y="288"
           width="169"
           height="55"/>
       <archimateElement
@@ -168,8 +168,8 @@
         id="ac4a4d97-3869-42ac-8cfa-1ddf672b03f6"
         targetConnections="7131753f-9da8-42e7-8ae5-c9bc136bf1f8 7f94d91a-15b3-42b9-abc1-54c4c066791f 357136af-c615-4171-865e-9eb9cc0f4b0c 057583e7-cd31-4327-9bef-aaa4e47bb4ef">
       <bounds
-          x="408"
-          y="300"
+          x="396"
+          y="288"
           width="169"
           height="55"/>
       <archimateElement
