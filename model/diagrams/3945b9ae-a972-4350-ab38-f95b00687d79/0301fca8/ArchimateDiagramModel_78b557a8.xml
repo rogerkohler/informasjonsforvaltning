@@ -141,21 +141,26 @@
         targetConnections="02871b0a">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="07509bbf"
-          source="30548408"
-          target="2b66f157">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_55fe6041.xml#55fe6041"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="1bb64cbb"
           source="30548408"
           target="647e1ed2">
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_b83b95e7.xml#b83b95e7"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="4561fba6-63a9-42b5-9b3f-f418c9df2e0a"
+          source="30548408"
+          target="11ac9ccf-3bde-499f-8c7d-d6a6eb0531fd">
+        <bendpoints
+            startX="186"
+            startY="18"
+            endX="-180"
+            endY="7"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_55fe6041.xml#55fe6041"/>
       </sourceConnections>
       <bounds
           x="18"
@@ -515,19 +520,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="2b66f157"
-      targetConnections="07509bbf">
-    <bounds
-        x="1032"
-        y="381"
-        width="145"
-        height="40"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_dfed8572.xml#dfed8572"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="bfa84138"
       targetConnections="5d9d1181">
     <sourceConnections
@@ -569,5 +561,18 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_3d6ca1f9.xml#3d6ca1f9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="11ac9ccf-3bde-499f-8c7d-d6a6eb0531fd"
+      targetConnections="4561fba6-63a9-42b5-9b3f-f418c9df2e0a">
+    <bounds
+        x="1032"
+        y="381"
+        width="145"
+        height="40"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_eb7f08bd.xml#eb7f08bd"/>
   </children>
 </archimate:ArchimateDiagramModel>
