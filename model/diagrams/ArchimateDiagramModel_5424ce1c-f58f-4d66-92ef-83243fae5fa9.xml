@@ -954,14 +954,4 @@
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_74ea6699-414d-4dcc-8d94-9bd291380c19.xml#74ea6699-414d-4dcc-8d94-9bd291380c19"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="565866da-6428-462d-a3a8-520ee9d72dd7"
-      textAlignment="1">
-    <bounds
-        x="840"
-        y="840"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
