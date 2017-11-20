@@ -1,0 +1,5 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melingsutveksling"
+    id="ea74a98c-fd0a-44d1-8fa1-6fca7cfb029b"
+    documentation="The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol. "/>
