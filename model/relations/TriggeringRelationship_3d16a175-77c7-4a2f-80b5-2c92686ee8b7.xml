@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="asynkron meldingsutveksling"
+    id="3d16a175-77c7-4a2f-80b5-2c92686ee8b7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ef473119-c01a-44d0-a3df-8ba5b7543457.xml#ef473119-c01a-44d0-a3df-8ba5b7543457"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_fc5e3a57-6304-46e0-b5c0-b65eecf69ae5.xml#fc5e3a57-6304-46e0-b5c0-b65eecf69ae5"/>
+</archimate:TriggeringRelationship>
