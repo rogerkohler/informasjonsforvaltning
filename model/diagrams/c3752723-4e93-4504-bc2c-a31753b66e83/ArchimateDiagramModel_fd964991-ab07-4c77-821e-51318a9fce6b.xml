@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Skjenkebevilgning"
-    id="fd964991-ab07-4c77-821e-51318a9fce6b">
+    id="fd964991-ab07-4c77-821e-51318a9fce6b"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5fed51cb-2787-4612-953e-a68e17b452a5">

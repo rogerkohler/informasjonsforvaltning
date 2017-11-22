@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styringsråd"
-    id="3f82070c-34e8-41ed-8905-d7b0de340785">
+    id="3f82070c-34e8-41ed-8905-d7b0de340785"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f5742ca0-750f-4a21-b269-2f39fd6ee81c">

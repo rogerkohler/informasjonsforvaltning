@@ -9,15 +9,6 @@
       id="07681491">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="8c198c68"
-        source="07681491"
-        target="83c27b22">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_9175cf94.xml#9175cf94"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="9da9f0a0"
         source="07681491"
         target="efa0fb42">
@@ -33,6 +24,15 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_e366eaa9.xml#e366eaa9"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8c198c68"
+        source="07681491"
+        target="83c27b22">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_9175cf94.xml#9175cf94"/>
     </sourceConnections>
     <bounds
         x="258"
@@ -116,7 +116,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="83c27b22"
-      targetConnections="8c198c68 5a97d033">
+      targetConnections="5a97d033 8c198c68">
     <bounds
         x="168"
         y="12"

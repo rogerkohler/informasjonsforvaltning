@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migrering"
-    id="5424ce1c-f58f-4d66-92ef-83243fae5fa9">
+    id="5424ce1c-f58f-4d66-92ef-83243fae5fa9"
+    viewpoint="implementation_migration">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0969d0f6-b27b-4db2-961e-71aa2da7bbf9"
@@ -554,7 +555,7 @@
         x="-12"
         y="120"
         width="121"
-        height="85"/>
+        height="109"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_4dcd4740.xml#4dcd4740"/>

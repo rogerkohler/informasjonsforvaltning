@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styringsprosess"
-    id="44c9687c-5699-4679-bcfb-8a8f06d9781a">
+    id="44c9687c-5699-4679-bcfb-8a8f06d9781a"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="87cccd84-d907-4d7c-97d3-edbba15c40db">

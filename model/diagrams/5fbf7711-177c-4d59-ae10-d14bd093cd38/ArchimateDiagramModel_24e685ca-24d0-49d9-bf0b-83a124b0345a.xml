@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SERES og Modellkatalog"
-    id="24e685ca-24d0-49d9-bf0b-83a124b0345a">
+    id="24e685ca-24d0-49d9-bf0b-83a124b0345a"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b13eae01-aa5d-4b0d-a9ce-6939e06841e0">

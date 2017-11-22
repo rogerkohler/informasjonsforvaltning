@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styringsstruktur"
-    id="ed2ca6d2-6cf9-41b6-a825-996e40814721">
+    id="ed2ca6d2-6cf9-41b6-a825-996e40814721"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f9a792ef-fc61-4e33-b8f2-bb5d481f5245">

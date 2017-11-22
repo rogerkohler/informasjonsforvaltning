@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="asynkron meldingsutveksling"
+    name="synkront oppslag"
     id="3d16a175-77c7-4a2f-80b5-2c92686ee8b7">
   <source
       xsi:type="archimate:BusinessService"
