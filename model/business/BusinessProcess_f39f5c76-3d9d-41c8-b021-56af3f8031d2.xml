@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order preparation"
+    id="f39f5c76-3d9d-41c8-b021-56af3f8031d2"
+    documentation="•Check/allocate inventory&#xD;&#xA;•Assign fulfillment centers&#xD;&#xA;•Look up prices&#xD;&#xA;•Calculate discounts, shipping charges, and taxes&#xD;&#xA;"/>

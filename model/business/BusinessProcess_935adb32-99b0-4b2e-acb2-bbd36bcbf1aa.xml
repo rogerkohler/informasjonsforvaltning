@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order entry"
+    id="935adb32-99b0-4b2e-acb2-bbd36bcbf1aa"
+    documentation="•Check/allocate inventory&#xD;&#xA;•Assign fulfillment centers&#xD;&#xA;•Look up prices&#xD;&#xA;•Calculate discounts, shipping charges, and taxes&#xD;&#xA;"/>
