@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Submitted order"
-    id="cd55080d-1666-4ff7-b00a-eedbc149d735"/>
+    name="Submitted order (purchase order)"
+    id="cd55080d-1666-4ff7-b00a-eedbc149d735"
+    documentation="A purchase order (PO) is a document that represents an agreement with a vendor to buy goods or services. The document also helps keep track of product receipts that are made toward the order and, later, the accounting of vendor invoices that the vendor bills toward the order.&#xA;&#xA;A purchase order or PO is prepared by a company to communicate and document precisely what the company is ordering from a vendor. "/>

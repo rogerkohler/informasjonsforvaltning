@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process order"
+    name="Process customers' purchase order"
     id="6b9a2b15-df11-499a-a218-af14457b2ca9"
     documentation="This process takes a submitted order and gets it ready to be released to fulfillment. It groups those order line items in an order that are being shipped to the same address, on the same day, by the same carrier, and from the same fulfillment center. Items that have a product attribute of &quot;release separately&quot; will be put into a release by themselves. Before creating releases for an order, the order payment status is checked to verify that the payment authorization has been obtained and is still valid."/>
