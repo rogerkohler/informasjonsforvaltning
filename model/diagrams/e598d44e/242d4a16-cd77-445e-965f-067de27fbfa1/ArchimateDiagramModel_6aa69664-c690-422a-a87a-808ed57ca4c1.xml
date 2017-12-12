@@ -329,9 +329,9 @@
       id="6749f178-fe4f-45d3-aa5f-58e54111b8f5">
     <bounds
         x="22"
-        y="636"
-        width="120"
-        height="55"/>
+        y="624"
+        width="879"
+        height="67"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_70d4b9b6-c1f2-475e-8150-2283e2dfd70f.xml#70d4b9b6-c1f2-475e-8150-2283e2dfd70f"/>
