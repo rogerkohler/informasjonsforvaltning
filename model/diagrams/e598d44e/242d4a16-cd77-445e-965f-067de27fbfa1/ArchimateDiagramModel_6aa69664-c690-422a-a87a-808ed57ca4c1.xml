@@ -977,9 +977,9 @@
           href="ServingRelationship_36335ceb-bb94-42ad-8f8a-33af2dc9265c.xml#36335ceb-bb94-42ad-8f8a-33af2dc9265c"/>
     </sourceConnections>
     <bounds
-        x="128"
+        x="23"
         y="1236"
-        width="871"
+        width="976"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
