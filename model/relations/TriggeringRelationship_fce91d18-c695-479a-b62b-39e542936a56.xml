@@ -4,8 +4,8 @@
     id="fce91d18-c695-479a-b62b-39e542936a56">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_5293db0c-d345-40bc-9e60-f3f06d6caeb3.xml#5293db0c-d345-40bc-9e60-f3f06d6caeb3"/>
+      href="BusinessProcess_43e5d4da-3110-4859-8ddc-98740e3ceb9d.xml#43e5d4da-3110-4859-8ddc-98740e3ceb9d"/>
   <target
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_ebc369da-620a-41ac-a69e-4f9ef687d6d7.xml#ebc369da-620a-41ac-a69e-4f9ef687d6d7"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_258aaef8-b297-443d-a6bf-169f4987cd32.xml#258aaef8-b297-443d-a6bf-169f4987cd32"/>
 </archimate:TriggeringRelationship>
