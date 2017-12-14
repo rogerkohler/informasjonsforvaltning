@@ -24,7 +24,7 @@
         x="142"
         y="-23"
         width="154"
-        height="102"/>
+        height="120"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_011976f1.xml#011976f1"/>
@@ -329,9 +329,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18b740e6-8b57-4872-81d9-e7e0ba370b82">
     <bounds
-        x="840"
+        x="792"
         y="-21"
-        width="145"
+        width="193"
         height="97"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -620,7 +620,7 @@
         x="504"
         y="-23"
         width="282"
-        height="145"/>
+        height="180"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_a5dacdb3-7388-4ac8-bd65-4087bd78e69d.xml#a5dacdb3-7388-4ac8-bd65-4087bd78e69d"/>
