@@ -91,7 +91,7 @@
       name="Financial services and transactions"
       textAlignment="1">
     <bounds
-        x="564"
+        x="576"
         y="24"
         width="265"
         height="481"/>
@@ -104,7 +104,19 @@
     <bounds
         x="288"
         y="24"
-        width="265"
+        width="277"
         height="481"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="675b3904-58fe-4106-af03-84cc0566137f">
+      <bounds
+          x="12"
+          y="24"
+          width="253"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_a01b6730-9a81-4e19-980f-376bac2828b2.xml#a01b6730-9a81-4e19-980f-376bac2828b2"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>

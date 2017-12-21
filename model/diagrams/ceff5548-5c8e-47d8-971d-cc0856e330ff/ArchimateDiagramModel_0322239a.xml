@@ -70,7 +70,7 @@
           x="12"
           y="348"
           width="120"
-          height="85"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_7c280668-4c49-4c56-9d49-51a648352293.xml#7c280668-4c49-4c56-9d49-51a648352293"/>
@@ -357,5 +357,39 @@
           xsi:type="archimate:Goal"
           href="Goal_30a93487.xml#30a93487"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="878ed63e-ca19-4bbd-a5d7-9f602bc37448">
+    <bounds
+        x="126"
+        y="10"
+        width="187"
+        height="87"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_a1db0feb-8b1b-46c4-8548-2e16bf864205.xml#a1db0feb-8b1b-46c4-8548-2e16bf864205"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bba66b07-e9a8-4bce-ab7f-c6005112ca80"
+      textAlignment="1"
+      content="politikere - beslut i møtet. Yttringer... gir NI et oppdrag.( koble på verdi av åpne data, bråttsforebyggande) - tror på å konkretisere... ">
+    <bounds
+        x="463"
+        y="44"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="59919264-d96f-4321-9627-12e3477fad12"
+      textAlignment="1"
+      content="Nordkiske rådet samarbeidsråd. Ledende globalt.">
+    <bounds
+        x="721"
+        y="34"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
