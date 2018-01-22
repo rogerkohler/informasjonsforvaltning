@@ -278,7 +278,7 @@
     <bounds
         x="699"
         y="380"
-        width="120"
+        width="130"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -614,7 +614,7 @@
         x="1383"
         y="96"
         width="126"
-        height="50"/>
+        height="56"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -662,9 +662,9 @@
           href="AssociationRelationship_280c7eab-62a6-4a20-895e-94f7d7cd2f2e.xml#280c7eab-62a6-4a20-895e-94f7d7cd2f2e"/>
     </sourceConnections>
     <bounds
-        x="1372"
+        x="1356"
         y="380"
-        width="120"
+        width="136"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -866,7 +866,7 @@
         x="1311"
         y="476"
         width="185"
-        height="109"/>
+        height="113"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
